@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+  <title>Survivors</title>
+</head>
+<body>
+
+<!-- Title of the current page, also used to describe graphs -->
+<div class="w3-center">
+  <div class="w3-container w3-blue-grey">
+      <h1>Survivors</h1>
+  </div>
+</div>
+
+<!-- Create a simple navigation menu -->
+<div class="w3-center">
+  <ul class="w3-pagination w3-xlarge w3-border">
+    <li><a href="passenger_by_age.html">&laquo;</a></li>
+    <li><a href="index.html">1</a></li>
+    <li><a href="passenger_summary.html">2</a></li>
+    <li><a href="passenger_by_age.html">3</a></li>
+    <li><a class="w3-grey" href="passenger_survivors.html">4</a></li>
+    <li><a href="#">&raquo;</a></li>
+  </ul>
+</div>
+
+<!-- Context information about the information presented -->
+<div class="w3-panel w3-leftbar w3-light-grey">
+  <p class="w3-xlarge w3-serif">
+  <i>In the rush following the collision, the stewards, occupied with waking up
+    sleeping passengers and leading groups of women and children to the boat
+    deck, did not have time to open all the gates, leaving many of the confused
+    third class passengers stuck below decks."
+    </i></p>
+  <p><a href="https://en.wikipedia.org/wiki/Passengers_of_the_RMS_Titanic">
+    Wikipedia</a></p>
+</div>
+
+<!-- Buttons to control the storytelling of dimple.js -->
+<div class="buttons w3-center"></div>
+
+<!-- Call the .js that reads data and puts the graph in the page -->
+<script src="./js/passenger_survivors_graph.js"></script>
+
+</body>
+</html>

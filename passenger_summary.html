@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://dimplejs.org/dist/dimple.v2.0.0.min.js"></script>
+  <title>Total passengers per Class</title>
+</head>
+<body>
+
+<!-- Title of the current page, also used to describe graphs -->
+<div class="w3-center">
+  <div class="w3-container w3-blue-grey">
+      <h1>Total passengers per Class</h1>
+  </div>
+</div>
+
+<!-- Create a simple navigation menu -->
+<div class="w3-center">
+  <ul class="w3-pagination w3-xlarge w3-border">
+    <li><a href="index.html">&laquo;</a></li>
+    <li><a href="index.html">1</a></li>
+    <li><a class="w3-grey" href="#">2</a></li>
+    <li><a href="passenger_by_age.html">3</a></li>
+    <li><a href="passenger_survivors.html">4</a></li>
+    <li><a href="passenger_by_age.html">&raquo;</a></li>
+  </ul>
+</div>
+
+<!-- Context information about the information presented -->
+<div class="w3-panel w3-leftbar w3-light-grey">
+  <p class="w3-xlarge w3-serif">
+  <i>"The passenger facilities aboard Titanic aimed to meet the highest
+    standards of luxury."
+    <ul class="w3-ul w3-border">
+    <li>The Titanic's first class passenger list was a "who's who" of the rich
+      and prominent of the upper class in 1912.</li>
+    <li>Second class' passengers were leisure tourists, academics, members of
+      the clergy and middle class English and American families.</li>
+    <li>The third class passengers or steerage passengers left hoping to start
+      new lives in the United States and Canada.</li>
+    </ul>
+    </i></p>
+  <p><a href="https://en.wikipedia.org/wiki/Passengers_of_the_RMS_Titanic">
+    Wikipedia</a></p>
+</div>
+
+<!-- Call the .js that reads data and puts the graph in the page -->
+<script src="./js/passenger_summary_graph.js"></script>
+
+</body>
+</html>

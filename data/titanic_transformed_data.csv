@@ -1,0 +1,1310 @@
+,Pclass,Survived,Name,Sex,Age,Count
+0,1st Class,1,"Allen, Miss. Elisabeth Walton",Female,20-30,1
+1,1st Class,1,"Allison, Master. Hudson Trevor",Male,0-10,1
+2,1st Class,0,"Allison, Miss. Helen Loraine",Female,0-10,1
+3,1st Class,0,"Allison, Mr. Hudson Joshua Creighton",Male,20-30,1
+4,1st Class,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",Female,20-30,1
+5,1st Class,1,"Anderson, Mr. Harry",Male,40-50,1
+6,1st Class,1,"Andrews, Miss. Kornelia Theodosia",Female,60-70,1
+7,1st Class,0,"Andrews, Mr. Thomas Jr",Male,30-40,1
+8,1st Class,1,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",Female,50-60,1
+9,1st Class,0,"Artagaveytia, Mr. Ramon",Male,70-80,1
+10,1st Class,0,"Astor, Col. John Jacob",Male,40-50,1
+11,1st Class,1,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",Female,10-20,1
+12,1st Class,1,"Aubart, Mme. Leontine Pauline",Female,20-30,1
+13,1st Class,1,"Barber, Miss. Ellen ""Nellie""",Female,20-30,1
+14,1st Class,1,"Barkworth, Mr. Algernon Henry Wilson",Male,70-80,1
+15,1st Class,0,"Baumann, Mr. John D",Male,No data,1
+16,1st Class,0,"Baxter, Mr. Quigg Edmond",Male,20-30,1
+17,1st Class,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",Female,40-50,1
+18,1st Class,1,"Bazzani, Miss. Albina",Female,30-40,1
+19,1st Class,0,"Beattie, Mr. Thomson",Male,30-40,1
+20,1st Class,1,"Beckwith, Mr. Richard Leonard",Male,30-40,1
+21,1st Class,1,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",Female,40-50,1
+22,1st Class,1,"Behr, Mr. Karl Howell",Male,20-30,1
+23,1st Class,1,"Bidois, Miss. Rosalie",Female,40-50,1
+24,1st Class,1,"Bird, Miss. Ellen",Female,20-30,1
+25,1st Class,0,"Birnbaum, Mr. Jakob",Male,20-30,1
+26,1st Class,1,"Bishop, Mr. Dickinson H",Male,20-30,1
+27,1st Class,1,"Bishop, Mrs. Dickinson H (Helen Walton)",Female,10-20,1
+28,1st Class,1,"Bissette, Miss. Amelia",Female,30-40,1
+29,1st Class,1,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",Male,20-30,1
+30,1st Class,0,"Blackwell, Mr. Stephen Weart",Male,40-50,1
+31,1st Class,1,"Blank, Mr. Henry",Male,30-40,1
+32,1st Class,1,"Bonnell, Miss. Caroline",Female,20-30,1
+33,1st Class,1,"Bonnell, Miss. Elizabeth",Female,50-60,1
+34,1st Class,0,"Borebank, Mr. John James",Male,40-50,1
+35,1st Class,1,"Bowen, Miss. Grace Scott",Female,40-50,1
+36,1st Class,1,"Bowerman, Miss. Elsie Edith",Female,20-30,1
+37,1st Class,1,"Bradley, Mr. George (""George Arthur Brayton"")",Male,No data,1
+38,1st Class,0,"Brady, Mr. John Bertram",Male,40-50,1
+39,1st Class,0,"Brandeis, Mr. Emil",Male,40-50,1
+40,1st Class,0,"Brewe, Dr. Arthur Jackson",Male,No data,1
+41,1st Class,1,"Brown, Mrs. James Joseph (Margaret Tobin)",Female,40-50,1
+42,1st Class,1,"Brown, Mrs. John Murray (Caroline Lane Lamson)",Female,50-60,1
+43,1st Class,1,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",Female,50-60,1
+44,1st Class,1,"Burns, Miss. Elizabeth Margaret",Female,40-50,1
+45,1st Class,0,"Butt, Major. Archibald Willingham",Male,40-50,1
+46,1st Class,0,"Cairns, Mr. Alexander",Male,No data,1
+47,1st Class,1,"Calderhead, Mr. Edward Pennington",Male,40-50,1
+48,1st Class,1,"Candee, Mrs. Edward (Helen Churchill Hungerford)",Female,50-60,1
+49,1st Class,1,"Cardeza, Mr. Thomas Drake Martinez",Male,30-40,1
+50,1st Class,1,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",Female,50-60,1
+51,1st Class,0,"Carlsson, Mr. Frans Olof",Male,30-40,1
+52,1st Class,0,"Carrau, Mr. Francisco M",Male,20-30,1
+53,1st Class,0,"Carrau, Mr. Jose Pedro",Male,10-20,1
+54,1st Class,1,"Carter, Master. William Thornton II",Male,10-20,1
+55,1st Class,1,"Carter, Miss. Lucile Polk",Female,10-20,1
+56,1st Class,1,"Carter, Mr. William Ernest",Male,30-40,1
+57,1st Class,1,"Carter, Mrs. William Ernest (Lucile Polk)",Female,30-40,1
+58,1st Class,0,"Case, Mr. Howard Brown",Male,40-50,1
+59,1st Class,1,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",Female,No data,1
+60,1st Class,0,"Cavendish, Mr. Tyrell William",Male,30-40,1
+61,1st Class,1,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",Female,70-80,1
+62,1st Class,0,"Chaffee, Mr. Herbert Fuller",Male,40-50,1
+63,1st Class,1,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Female,40-50,1
+64,1st Class,1,"Chambers, Mr. Norman Campbell",Male,20-30,1
+65,1st Class,1,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",Female,30-40,1
+66,1st Class,1,"Chaudanson, Miss. Victorine",Female,30-40,1
+67,1st Class,1,"Cherry, Miss. Gladys",Female,20-30,1
+68,1st Class,1,"Chevre, Mr. Paul Romaine",Male,40-50,1
+69,1st Class,1,"Chibnall, Mrs. (Edith Martha Bowerman)",Female,No data,1
+70,1st Class,0,"Chisholm, Mr. Roderick Robert Crispin",Male,No data,1
+71,1st Class,0,"Clark, Mr. Walter Miller",Male,20-30,1
+72,1st Class,1,"Clark, Mrs. Walter Miller (Virginia McDowell)",Female,20-30,1
+73,1st Class,1,"Cleaver, Miss. Alice",Female,20-30,1
+74,1st Class,0,"Clifford, Mr. George Quincy",Male,No data,1
+75,1st Class,0,"Colley, Mr. Edward Pomeroy",Male,40-50,1
+76,1st Class,1,"Compton, Miss. Sara Rebecca",Female,30-40,1
+77,1st Class,0,"Compton, Mr. Alexander Taylor Jr",Male,30-40,1
+78,1st Class,1,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",Female,60-70,1
+79,1st Class,1,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",Female,50-60,1
+80,1st Class,0,"Crafton, Mr. John Bertram",Male,No data,1
+81,1st Class,0,"Crosby, Capt. Edward Gifford",Male,60-70,1
+82,1st Class,1,"Crosby, Miss. Harriet R",Female,30-40,1
+83,1st Class,1,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",Female,60-70,1
+84,1st Class,0,"Cumings, Mr. John Bradley",Male,30-40,1
+85,1st Class,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",Female,30-40,1
+86,1st Class,1,"Daly, Mr. Peter Denis ",Male,50-60,1
+87,1st Class,1,"Daniel, Mr. Robert Williams",Male,20-30,1
+88,1st Class,1,"Daniels, Miss. Sarah",Female,30-40,1
+89,1st Class,0,"Davidson, Mr. Thornton",Male,30-40,1
+90,1st Class,1,"Davidson, Mrs. Thornton (Orian Hays)",Female,20-30,1
+91,1st Class,1,"Dick, Mr. Albert Adrian",Male,30-40,1
+92,1st Class,1,"Dick, Mrs. Albert Adrian (Vera Gillespie)",Female,10-20,1
+93,1st Class,1,"Dodge, Dr. Washington",Male,50-60,1
+94,1st Class,1,"Dodge, Master. Washington",Male,0-10,1
+95,1st Class,1,"Dodge, Mrs. Washington (Ruth Vidaver)",Female,50-60,1
+96,1st Class,0,"Douglas, Mr. Walter Donald",Male,40-50,1
+97,1st Class,1,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",Female,20-30,1
+98,1st Class,1,"Douglas, Mrs. Walter Donald (Mahala Dutton)",Female,40-50,1
+99,1st Class,1,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",Female,40-50,1
+100,1st Class,1,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",Male,40-50,1
+101,1st Class,0,"Dulles, Mr. William Crothers",Male,30-40,1
+102,1st Class,1,"Earnshaw, Mrs. Boulton (Olive Potter)",Female,20-30,1
+103,1st Class,1,"Endres, Miss. Caroline Louise",Female,30-40,1
+104,1st Class,1,"Eustis, Miss. Elizabeth Mussey",Female,50-60,1
+105,1st Class,0,"Evans, Miss. Edith Corse",Female,30-40,1
+106,1st Class,0,"Farthing, Mr. John",Male,No data,1
+107,1st Class,1,"Flegenheim, Mrs. Alfred (Antoinette)",Female,No data,1
+108,1st Class,1,"Fleming, Miss. Margaret",Female,No data,1
+109,1st Class,1,"Flynn, Mr. John Irwin (""Irving"")",Male,30-40,1
+110,1st Class,0,"Foreman, Mr. Benjamin Laventall",Male,20-30,1
+111,1st Class,1,"Fortune, Miss. Alice Elizabeth",Female,20-30,1
+112,1st Class,1,"Fortune, Miss. Ethel Flora",Female,20-30,1
+113,1st Class,1,"Fortune, Miss. Mabel Helen",Female,20-30,1
+114,1st Class,0,"Fortune, Mr. Charles Alexander",Male,10-20,1
+115,1st Class,0,"Fortune, Mr. Mark",Male,60-70,1
+116,1st Class,1,"Fortune, Mrs. Mark (Mary McDougald)",Female,50-60,1
+117,1st Class,1,"Francatelli, Miss. Laura Mabel",Female,20-30,1
+118,1st Class,0,"Franklin, Mr. Thomas Parham",Male,No data,1
+119,1st Class,1,"Frauenthal, Dr. Henry William",Male,40-50,1
+120,1st Class,1,"Frauenthal, Mr. Isaac Gerald",Male,40-50,1
+121,1st Class,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",Female,No data,1
+122,1st Class,1,"Frolicher, Miss. Hedwig Margaritha",Female,20-30,1
+123,1st Class,1,"Frolicher-Stehli, Mr. Maxmillian",Male,50-60,1
+124,1st Class,1,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",Female,40-50,1
+125,1st Class,0,"Fry, Mr. Richard",Male,No data,1
+126,1st Class,0,"Futrelle, Mr. Jacques Heath",Male,30-40,1
+127,1st Class,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",Female,30-40,1
+128,1st Class,0,"Gee, Mr. Arthur H",Male,40-50,1
+129,1st Class,1,"Geiger, Miss. Amalie",Female,30-40,1
+130,1st Class,1,"Gibson, Miss. Dorothy Winifred",Female,20-30,1
+131,1st Class,1,"Gibson, Mrs. Leonard (Pauline C Boeson)",Female,40-50,1
+132,1st Class,0,"Giglio, Mr. Victor",Male,20-30,1
+133,1st Class,1,"Goldenberg, Mr. Samuel L",Male,40-50,1
+134,1st Class,1,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",Female,No data,1
+135,1st Class,0,"Goldschmidt, Mr. George B",Male,70-80,1
+136,1st Class,1,"Gracie, Col. Archibald IV",Male,50-60,1
+137,1st Class,1,"Graham, Miss. Margaret Edith",Female,10-20,1
+138,1st Class,0,"Graham, Mr. George Edward",Male,30-40,1
+139,1st Class,1,"Graham, Mrs. William Thompson (Edith Junkins)",Female,50-60,1
+140,1st Class,1,"Greenfield, Mr. William Bertram",Male,20-30,1
+141,1st Class,1,"Greenfield, Mrs. Leo David (Blanche Strouse)",Female,40-50,1
+142,1st Class,0,"Guggenheim, Mr. Benjamin",Male,40-50,1
+143,1st Class,1,"Harder, Mr. George Achilles",Male,20-30,1
+144,1st Class,1,"Harder, Mrs. George Achilles (Dorothy Annan)",Female,20-30,1
+145,1st Class,1,"Harper, Mr. Henry Sleeper",Male,40-50,1
+146,1st Class,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",Female,40-50,1
+147,1st Class,0,"Harrington, Mr. Charles H",Male,No data,1
+148,1st Class,0,"Harris, Mr. Henry Birkhardt",Male,40-50,1
+149,1st Class,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",Female,30-40,1
+150,1st Class,0,"Harrison, Mr. William",Male,30-40,1
+151,1st Class,1,"Hassab, Mr. Hammad",Male,20-30,1
+152,1st Class,1,"Hawksford, Mr. Walter James",Male,No data,1
+153,1st Class,1,"Hays, Miss. Margaret Bechstein",Female,20-30,1
+154,1st Class,0,"Hays, Mr. Charles Melville",Male,50-60,1
+155,1st Class,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",Female,50-60,1
+156,1st Class,0,"Head, Mr. Christopher",Male,40-50,1
+157,1st Class,0,"Hilliard, Mr. Herbert Henry",Male,No data,1
+158,1st Class,0,"Hipkins, Mr. William Edward",Male,50-60,1
+159,1st Class,1,"Hippach, Miss. Jean Gertrude",Female,10-20,1
+160,1st Class,1,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",Female,40-50,1
+161,1st Class,1,"Hogeboom, Mrs. John C (Anna Andrews)",Female,50-60,1
+162,1st Class,0,"Holverson, Mr. Alexander Oskar",Male,40-50,1
+163,1st Class,1,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",Female,30-40,1
+164,1st Class,1,"Homer, Mr. Harry (""Mr E Haven"")",Male,30-40,1
+165,1st Class,1,"Hoyt, Mr. Frederick Maxfield",Male,30-40,1
+166,1st Class,0,"Hoyt, Mr. William Fisher",Male,No data,1
+167,1st Class,1,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",Female,30-40,1
+168,1st Class,1,"Icard, Miss. Amelie",Female,30-40,1
+169,1st Class,0,"Isham, Miss. Ann Elizabeth",Female,40-50,1
+170,1st Class,1,"Ismay, Mr. Joseph Bruce",Male,40-50,1
+171,1st Class,0,"Jones, Mr. Charles Cresson",Male,40-50,1
+172,1st Class,0,"Julian, Mr. Henry Forbes",Male,40-50,1
+173,1st Class,0,"Keeping, Mr. Edwin",Male,30-40,1
+174,1st Class,0,"Kent, Mr. Edward Austin",Male,50-60,1
+175,1st Class,0,"Kenyon, Mr. Frederick R",Male,40-50,1
+176,1st Class,1,"Kenyon, Mrs. Frederick R (Marion)",Female,No data,1
+177,1st Class,1,"Kimball, Mr. Edwin Nelson Jr",Male,40-50,1
+178,1st Class,1,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",Female,40-50,1
+179,1st Class,0,"Klaber, Mr. Herman",Male,No data,1
+180,1st Class,1,"Kreuchen, Miss. Emilie",Female,30-40,1
+181,1st Class,1,"Leader, Dr. Alice (Farnham)",Female,40-50,1
+182,1st Class,1,"LeRoy, Miss. Bertha",Female,20-30,1
+183,1st Class,1,"Lesurer, Mr. Gustave J",Male,30-40,1
+184,1st Class,0,"Lewy, Mr. Ervin G",Male,No data,1
+185,1st Class,0,"Lindeberg-Lind, Mr. Erik Gustaf (""Mr Edward Lingrey"")",Male,40-50,1
+186,1st Class,1,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",Female,50-60,1
+187,1st Class,1,"Lines, Miss. Mary Conover",Female,10-20,1
+188,1st Class,1,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",Female,50-60,1
+189,1st Class,0,"Long, Mr. Milton Clyde",Male,20-30,1
+190,1st Class,1,"Longley, Miss. Gretchen Fiske",Female,20-30,1
+191,1st Class,0,"Loring, Mr. Joseph Holland",Male,20-30,1
+192,1st Class,1,"Lurette, Miss. Elise",Female,50-60,1
+193,1st Class,1,"Madill, Miss. Georgette Alexandra",Female,10-20,1
+194,1st Class,0,"Maguire, Mr. John Edward",Male,20-30,1
+195,1st Class,1,"Maioni, Miss. Roberta",Female,10-20,1
+196,1st Class,1,"Marechal, Mr. Pierre",Male,No data,1
+197,1st Class,0,"Marvin, Mr. Daniel Warner",Male,10-20,1
+198,1st Class,1,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",Female,10-20,1
+199,1st Class,1,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",Female,20-30,1
+200,1st Class,0,"McCaffry, Mr. Thomas Francis",Male,40-50,1
+201,1st Class,0,"McCarthy, Mr. Timothy J",Male,50-60,1
+202,1st Class,1,"McGough, Mr. James Robert",Male,30-40,1
+203,1st Class,0,"Meyer, Mr. Edgar Joseph",Male,20-30,1
+204,1st Class,1,"Meyer, Mrs. Edgar Joseph (Leila Saks)",Female,No data,1
+205,1st Class,0,"Millet, Mr. Francis Davis",Male,60-70,1
+206,1st Class,0,"Minahan, Dr. William Edward",Male,40-50,1
+207,1st Class,1,"Minahan, Miss. Daisy E",Female,30-40,1
+208,1st Class,1,"Minahan, Mrs. William Edward (Lillian E Thorpe)",Female,30-40,1
+209,1st Class,1,"Mock, Mr. Philipp Edmund",Male,20-30,1
+210,1st Class,0,"Molson, Mr. Harry Markland",Male,50-60,1
+211,1st Class,0,"Moore, Mr. Clarence Bloomfield",Male,40-50,1
+212,1st Class,0,"Natsch, Mr. Charles H",Male,30-40,1
+213,1st Class,1,"Newell, Miss. Madeleine",Female,30-40,1
+214,1st Class,1,"Newell, Miss. Marjorie",Female,20-30,1
+215,1st Class,0,"Newell, Mr. Arthur Webster",Male,50-60,1
+216,1st Class,1,"Newsom, Miss. Helen Monypeny",Female,10-20,1
+217,1st Class,0,"Nicholson, Mr. Arthur Ernest",Male,60-70,1
+218,1st Class,1,"Oliva y Ocana, Dona. Fermina",Female,30-40,1
+219,1st Class,1,"Omont, Mr. Alfred Fernand",Male,No data,1
+220,1st Class,1,"Ostby, Miss. Helene Ragnhild",Female,20-30,1
+221,1st Class,0,"Ostby, Mr. Engelhart Cornelius",Male,60-70,1
+222,1st Class,0,"Ovies y Rodriguez, Mr. Servando",Male,20-30,1
+223,1st Class,0,"Parr, Mr. William Henry Marsh",Male,No data,1
+224,1st Class,0,"Partner, Mr. Austen",Male,40-50,1
+225,1st Class,0,"Payne, Mr. Vivian Ponsonby",Male,20-30,1
+226,1st Class,0,"Pears, Mr. Thomas Clinton",Male,20-30,1
+227,1st Class,1,"Pears, Mrs. Thomas (Edith Wearne)",Female,20-30,1
+228,1st Class,0,"Penasco y Castellana, Mr. Victor de Satode",Male,10-20,1
+229,1st Class,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",Female,10-20,1
+230,1st Class,1,"Perreault, Miss. Anne",Female,20-30,1
+231,1st Class,1,"Peuchen, Major. Arthur Godfrey",Male,50-60,1
+232,1st Class,0,"Porter, Mr. Walter Chamberlain",Male,40-50,1
+233,1st Class,1,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",Female,50-60,1
+234,1st Class,0,"Reuchlin, Jonkheer. John George",Male,30-40,1
+235,1st Class,1,"Rheims, Mr. George Alexander Lucien",Male,No data,1
+236,1st Class,0,"Ringhini, Mr. Sante",Male,20-30,1
+237,1st Class,0,"Robbins, Mr. Victor",Male,No data,1
+238,1st Class,1,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",Female,40-50,1
+239,1st Class,0,"Roebling, Mr. Washington Augustus II",Male,30-40,1
+240,1st Class,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",Male,40-50,1
+241,1st Class,0,"Rood, Mr. Hugh Roscoe",Male,No data,1
+242,1st Class,1,"Rosenbaum, Miss. Edith Louise",Female,30-40,1
+243,1st Class,0,"Rosenshine, Mr. George (""Mr George Thorne"")",Male,40-50,1
+244,1st Class,0,"Ross, Mr. John Hugo",Male,30-40,1
+245,1st Class,1,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",Female,30-40,1
+246,1st Class,0,"Rothschild, Mr. Martin",Male,50-60,1
+247,1st Class,1,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",Female,50-60,1
+248,1st Class,0,"Rowe, Mr. Alfred G",Male,30-40,1
+249,1st Class,1,"Ryerson, Master. John Borie",Male,10-20,1
+250,1st Class,1,"Ryerson, Miss. Emily Borie",Female,10-20,1
+251,1st Class,1,"Ryerson, Miss. Susan Parker ""Suzette""",Female,20-30,1
+252,1st Class,0,"Ryerson, Mr. Arthur Larned",Male,60-70,1
+253,1st Class,1,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",Female,40-50,1
+254,1st Class,1,"Saalfeld, Mr. Adolphe",Male,No data,1
+255,1st Class,1,"Sagesser, Mlle. Emma",Female,20-30,1
+256,1st Class,1,"Salomon, Mr. Abraham L",Male,No data,1
+257,1st Class,1,"Schabert, Mrs. Paul (Emma Mock)",Female,30-40,1
+258,1st Class,1,"Serepeca, Miss. Augusta",Female,20-30,1
+259,1st Class,1,"Seward, Mr. Frederic Kimber",Male,30-40,1
+260,1st Class,1,"Shutes, Miss. Elizabeth W",Female,30-40,1
+261,1st Class,1,"Silverthorne, Mr. Spencer Victor",Male,30-40,1
+262,1st Class,0,"Silvey, Mr. William Baird",Male,40-50,1
+263,1st Class,1,"Silvey, Mrs. William Baird (Alice Munger)",Female,30-40,1
+264,1st Class,1,"Simonius-Blumer, Col. Oberst Alfons",Male,50-60,1
+265,1st Class,1,"Sloper, Mr. William Thompson",Male,20-30,1
+266,1st Class,0,"Smart, Mr. John Montgomery",Male,50-60,1
+267,1st Class,0,"Smith, Mr. James Clinch",Male,50-60,1
+268,1st Class,0,"Smith, Mr. Lucien Philip",Male,20-30,1
+269,1st Class,0,"Smith, Mr. Richard William",Male,No data,1
+270,1st Class,1,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",Female,10-20,1
+271,1st Class,1,"Snyder, Mr. John Pillsbury",Male,20-30,1
+272,1st Class,1,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",Female,20-30,1
+273,1st Class,1,"Spedden, Master. Robert Douglas",Male,0-10,1
+274,1st Class,1,"Spedden, Mr. Frederic Oakley",Male,40-50,1
+275,1st Class,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",Female,30-40,1
+276,1st Class,0,"Spencer, Mr. William Augustus",Male,50-60,1
+277,1st Class,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",Female,No data,1
+278,1st Class,1,"Stahelin-Maeglin, Dr. Max",Male,30-40,1
+279,1st Class,0,"Stead, Mr. William Thomas",Male,60-70,1
+280,1st Class,1,"Stengel, Mr. Charles Emil Henry",Male,50-60,1
+281,1st Class,1,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",Female,40-50,1
+282,1st Class,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",Female,50-60,1
+283,1st Class,0,"Stewart, Mr. Albert A",Male,No data,1
+284,1st Class,1,"Stone, Mrs. George Nelson (Martha Evelyn)",Female,60-70,1
+285,1st Class,0,"Straus, Mr. Isidor",Male,60-70,1
+286,1st Class,0,"Straus, Mrs. Isidor (Rosalie Ida Blun)",Female,60-70,1
+287,1st Class,0,"Sutton, Mr. Frederick",Male,60-70,1
+288,1st Class,1,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",Female,40-50,1
+289,1st Class,1,"Taussig, Miss. Ruth",Female,10-20,1
+290,1st Class,0,"Taussig, Mr. Emil",Male,50-60,1
+291,1st Class,1,"Taussig, Mrs. Emil (Tillie Mandelbaum)",Female,30-40,1
+292,1st Class,1,"Taylor, Mr. Elmer Zebley",Male,40-50,1
+293,1st Class,1,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",Female,No data,1
+294,1st Class,0,"Thayer, Mr. John Borland",Male,40-50,1
+295,1st Class,1,"Thayer, Mr. John Borland Jr",Male,10-20,1
+296,1st Class,1,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",Female,30-40,1
+297,1st Class,1,"Thorne, Mrs. Gertrude Maybelle",Female,No data,1
+298,1st Class,1,"Tucker, Mr. Gilbert Milligan Jr",Male,30-40,1
+299,1st Class,0,"Uruchurtu, Don. Manuel E",Male,30-40,1
+300,1st Class,0,"Van der hoef, Mr. Wyckoff",Male,60-70,1
+301,1st Class,0,"Walker, Mr. William Anderson",Male,40-50,1
+302,1st Class,1,"Ward, Miss. Anna",Female,30-40,1
+303,1st Class,0,"Warren, Mr. Frank Manley",Male,60-70,1
+304,1st Class,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",Female,50-60,1
+305,1st Class,0,"Weir, Col. John",Male,50-60,1
+306,1st Class,0,"White, Mr. Percival Wayland",Male,50-60,1
+307,1st Class,0,"White, Mr. Richard Frasar",Male,20-30,1
+308,1st Class,1,"White, Mrs. John Stuart (Ella Holmes)",Female,50-60,1
+309,1st Class,1,"Wick, Miss. Mary Natalie",Female,30-40,1
+310,1st Class,0,"Wick, Mr. George Dennick",Male,50-60,1
+311,1st Class,1,"Wick, Mrs. George Dennick (Mary Hitchcock)",Female,40-50,1
+312,1st Class,0,"Widener, Mr. George Dunton",Male,40-50,1
+313,1st Class,0,"Widener, Mr. Harry Elkins",Male,20-30,1
+314,1st Class,1,"Widener, Mrs. George Dunton (Eleanor Elkins)",Female,40-50,1
+315,1st Class,1,"Willard, Miss. Constance",Female,20-30,1
+316,1st Class,0,"Williams, Mr. Charles Duane",Male,50-60,1
+317,1st Class,1,"Williams, Mr. Richard Norris II",Male,20-30,1
+318,1st Class,0,"Williams-Lambert, Mr. Fletcher Fellows",Male,No data,1
+319,1st Class,1,"Wilson, Miss. Helen Alice",Female,30-40,1
+320,1st Class,1,"Woolner, Mr. Hugh",Male,No data,1
+321,1st Class,0,"Wright, Mr. George",Male,60-70,1
+322,1st Class,1,"Young, Miss. Marie Grice",Female,30-40,1
+323,2nd Class,0,"Abelson, Mr. Samuel",Male,20-30,1
+324,2nd Class,1,"Abelson, Mrs. Samuel (Hannah Wizosky)",Female,20-30,1
+325,2nd Class,0,"Aldworth, Mr. Charles Augustus",Male,20-30,1
+326,2nd Class,0,"Andrew, Mr. Edgardo Samuel",Male,10-20,1
+327,2nd Class,0,"Andrew, Mr. Frank Thomas",Male,20-30,1
+328,2nd Class,0,"Angle, Mr. William A",Male,30-40,1
+329,2nd Class,1,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Female,30-40,1
+330,2nd Class,0,"Ashby, Mr. John",Male,50-60,1
+331,2nd Class,0,"Bailey, Mr. Percy Andrew",Male,10-20,1
+332,2nd Class,0,"Baimbrigge, Mr. Charles Robert",Male,20-30,1
+333,2nd Class,1,"Ball, Mrs. (Ada E Hall)",Female,30-40,1
+334,2nd Class,0,"Banfield, Mr. Frederick James",Male,20-30,1
+335,2nd Class,0,"Bateman, Rev. Robert James",Male,50-60,1
+336,2nd Class,1,"Beane, Mr. Edward",Male,30-40,1
+337,2nd Class,1,"Beane, Mrs. Edward (Ethel Clarke)",Female,10-20,1
+338,2nd Class,0,"Beauchamp, Mr. Henry James",Male,20-30,1
+339,2nd Class,1,"Becker, Master. Richard F",Male,0-10,1
+340,2nd Class,1,"Becker, Miss. Marion Louise",Female,0-10,1
+341,2nd Class,1,"Becker, Miss. Ruth Elizabeth",Female,10-20,1
+342,2nd Class,1,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",Female,30-40,1
+343,2nd Class,1,"Beesley, Mr. Lawrence",Male,30-40,1
+344,2nd Class,1,"Bentham, Miss. Lilian W",Female,10-20,1
+345,2nd Class,0,"Berriman, Mr. William John",Male,20-30,1
+346,2nd Class,0,"Botsford, Mr. William Hull",Male,20-30,1
+347,2nd Class,0,"Bowenur, Mr. Solomon",Male,40-50,1
+348,2nd Class,0,"Bracken, Mr. James H",Male,20-30,1
+349,2nd Class,1,"Brown, Miss. Amelia ""Mildred""",Female,20-30,1
+350,2nd Class,1,"Brown, Miss. Edith Eileen",Female,10-20,1
+351,2nd Class,0,"Brown, Mr. Thomas William Solomon",Male,50-60,1
+352,2nd Class,1,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Female,30-40,1
+353,2nd Class,1,"Bryhl, Miss. Dagmar Jenny Ingeborg ",Female,10-20,1
+354,2nd Class,0,"Bryhl, Mr. Kurt Arnold Gottfrid",Male,20-30,1
+355,2nd Class,1,"Buss, Miss. Kate",Female,30-40,1
+356,2nd Class,0,"Butler, Mr. Reginald Fenton",Male,20-30,1
+357,2nd Class,0,"Byles, Rev. Thomas Roussel Davids",Male,40-50,1
+358,2nd Class,1,"Bystrom, Mrs. (Karolina)",Female,40-50,1
+359,2nd Class,1,"Caldwell, Master. Alden Gates",Male,0-10,1
+360,2nd Class,1,"Caldwell, Mr. Albert Francis",Male,20-30,1
+361,2nd Class,1,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Female,20-30,1
+362,2nd Class,1,"Cameron, Miss. Clear Annie",Female,30-40,1
+363,2nd Class,0,"Campbell, Mr. William",Male,No data,1
+364,2nd Class,0,"Carbines, Mr. William",Male,10-20,1
+365,2nd Class,0,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Female,40-50,1
+366,2nd Class,0,"Carter, Rev. Ernest Courtenay",Male,50-60,1
+367,2nd Class,0,"Chapman, Mr. Charles Henry",Male,50-60,1
+368,2nd Class,0,"Chapman, Mr. John Henry",Male,30-40,1
+369,2nd Class,0,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",Female,20-30,1
+370,2nd Class,1,"Christy, Miss. Julie Rachel",Female,20-30,1
+371,2nd Class,1,"Christy, Mrs. (Alice Frances)",Female,40-50,1
+372,2nd Class,0,"Clarke, Mr. Charles Valentine",Male,20-30,1
+373,2nd Class,1,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Female,20-30,1
+374,2nd Class,0,"Coleridge, Mr. Reginald Charles",Male,20-30,1
+375,2nd Class,0,"Collander, Mr. Erik Gustaf",Male,20-30,1
+376,2nd Class,1,"Collett, Mr. Sidney C Stuart",Male,20-30,1
+377,2nd Class,1,"Collyer, Miss. Marjorie ""Lottie""",Female,0-10,1
+378,2nd Class,0,"Collyer, Mr. Harvey",Male,30-40,1
+379,2nd Class,1,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Female,30-40,1
+380,2nd Class,1,"Cook, Mrs. (Selena Rogers)",Female,20-30,1
+381,2nd Class,0,"Corbett, Mrs. Walter H (Irene Colvin)",Female,20-30,1
+382,2nd Class,0,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",Female,No data,1
+383,2nd Class,0,"Cotterill, Mr. Henry ""Harry""",Male,20-30,1
+384,2nd Class,0,"Cunningham, Mr. Alfred Fleming",Male,No data,1
+385,2nd Class,1,"Davies, Master. John Morgan Jr",Male,0-10,1
+386,2nd Class,0,"Davies, Mr. Charles Henry",Male,10-20,1
+387,2nd Class,1,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",Female,40-50,1
+388,2nd Class,1,"Davis, Miss. Mary",Female,20-30,1
+389,2nd Class,0,"de Brito, Mr. Jose Joaquim",Male,30-40,1
+390,2nd Class,0,"Deacon, Mr. Percy William",Male,10-20,1
+391,2nd Class,0,"del Carlo, Mr. Sebastiano",Male,20-30,1
+392,2nd Class,1,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",Female,20-30,1
+393,2nd Class,0,"Denbury, Mr. Herbert",Male,20-30,1
+394,2nd Class,0,"Dibden, Mr. William",Male,10-20,1
+395,2nd Class,1,"Doling, Miss. Elsie",Female,10-20,1
+396,2nd Class,1,"Doling, Mrs. John T (Ada Julia Bone)",Female,30-40,1
+397,2nd Class,0,"Downton, Mr. William James",Male,50-60,1
+398,2nd Class,1,"Drew, Master. Marshall Brines",Male,0-10,1
+399,2nd Class,0,"Drew, Mr. James Vivian",Male,40-50,1
+400,2nd Class,1,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Female,30-40,1
+401,2nd Class,1,"Duran y More, Miss. Asuncion",Female,20-30,1
+402,2nd Class,1,"Duran y More, Miss. Florentina",Female,20-30,1
+403,2nd Class,0,"Eitemiller, Mr. George Floyd",Male,20-30,1
+404,2nd Class,0,"Enander, Mr. Ingvar",Male,20-30,1
+405,2nd Class,0,"Fahlstrom, Mr. Arne Jonas",Male,10-20,1
+406,2nd Class,0,"Faunthorpe, Mr. Harry",Male,30-40,1
+407,2nd Class,1,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Female,20-30,1
+408,2nd Class,0,"Fillbrook, Mr. Joseph Charles",Male,10-20,1
+409,2nd Class,0,"Fox, Mr. Stanley Hubert",Male,30-40,1
+410,2nd Class,0,"Frost, Mr. Anthony Wood ""Archie""",Male,No data,1
+411,2nd Class,0,"Funk, Miss. Annie Clemmer",Female,30-40,1
+412,2nd Class,0,"Fynney, Mr. Joseph J",Male,30-40,1
+413,2nd Class,0,"Gale, Mr. Harry",Male,30-40,1
+414,2nd Class,0,"Gale, Mr. Shadrach",Male,30-40,1
+415,2nd Class,1,"Garside, Miss. Ethel",Female,30-40,1
+416,2nd Class,0,"Gaskell, Mr. Alfred",Male,10-20,1
+417,2nd Class,0,"Gavey, Mr. Lawrence",Male,20-30,1
+418,2nd Class,0,"Gilbert, Mr. William",Male,40-50,1
+419,2nd Class,0,"Giles, Mr. Edgar",Male,20-30,1
+420,2nd Class,0,"Giles, Mr. Frederick Edward",Male,20-30,1
+421,2nd Class,0,"Giles, Mr. Ralph",Male,20-30,1
+422,2nd Class,0,"Gill, Mr. John William",Male,20-30,1
+423,2nd Class,0,"Gillespie, Mr. William Henry",Male,30-40,1
+424,2nd Class,0,"Givard, Mr. Hans Kristensen",Male,20-30,1
+425,2nd Class,0,"Greenberg, Mr. Samuel",Male,50-60,1
+426,2nd Class,0,"Hale, Mr. Reginald",Male,20-30,1
+427,2nd Class,1,"Hamalainen, Master. Viljo",Male,0-10,1
+428,2nd Class,1,"Hamalainen, Mrs. William (Anna)",Female,20-30,1
+429,2nd Class,0,"Harbeck, Mr. William H",Male,40-50,1
+430,2nd Class,1,"Harper, Miss. Annie Jessie ""Nina""",Female,0-10,1
+431,2nd Class,0,"Harper, Rev. John",Male,20-30,1
+432,2nd Class,1,"Harris, Mr. George",Male,60-70,1
+433,2nd Class,0,"Harris, Mr. Walter",Male,20-30,1
+434,2nd Class,1,"Hart, Miss. Eva Miriam",Female,0-10,1
+435,2nd Class,0,"Hart, Mr. Benjamin",Male,40-50,1
+436,2nd Class,1,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Female,40-50,1
+437,2nd Class,1,"Herman, Miss. Alice",Female,20-30,1
+438,2nd Class,1,"Herman, Miss. Kate",Female,20-30,1
+439,2nd Class,0,"Herman, Mr. Samuel",Male,40-50,1
+440,2nd Class,1,"Herman, Mrs. Samuel (Jane Laver)",Female,40-50,1
+441,2nd Class,1,"Hewlett, Mrs. (Mary D Kingcome) ",Female,50-60,1
+442,2nd Class,0,"Hickman, Mr. Leonard Mark",Male,20-30,1
+443,2nd Class,0,"Hickman, Mr. Lewis",Male,30-40,1
+444,2nd Class,0,"Hickman, Mr. Stanley George",Male,20-30,1
+445,2nd Class,0,"Hiltunen, Miss. Marta",Female,10-20,1
+446,2nd Class,1,"Hocking, Miss. Ellen ""Nellie""",Female,10-20,1
+447,2nd Class,0,"Hocking, Mr. Richard George",Male,20-30,1
+448,2nd Class,0,"Hocking, Mr. Samuel James Metcalfe",Male,30-40,1
+449,2nd Class,1,"Hocking, Mrs. Elizabeth (Eliza Needs)",Female,50-60,1
+450,2nd Class,0,"Hodges, Mr. Henry Price",Male,40-50,1
+451,2nd Class,0,"Hold, Mr. Stephen",Male,40-50,1
+452,2nd Class,1,"Hold, Mrs. Stephen (Annie Margaret Hill)",Female,20-30,1
+453,2nd Class,0,"Hood, Mr. Ambrose Jr",Male,20-30,1
+454,2nd Class,1,"Hosono, Mr. Masabumi",Male,40-50,1
+455,2nd Class,0,"Howard, Mr. Benjamin",Male,60-70,1
+456,2nd Class,0,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",Female,50-60,1
+457,2nd Class,0,"Hunt, Mr. George Henry",Male,30-40,1
+458,2nd Class,1,"Ilett, Miss. Bertha",Female,10-20,1
+459,2nd Class,0,"Jacobsohn, Mr. Sidney Samuel",Male,40-50,1
+460,2nd Class,1,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Female,20-30,1
+461,2nd Class,0,"Jarvis, Mr. John Denzil",Male,40-50,1
+462,2nd Class,0,"Jefferys, Mr. Clifford Thomas",Male,20-30,1
+463,2nd Class,0,"Jefferys, Mr. Ernest Wilfred",Male,20-30,1
+464,2nd Class,0,"Jenkin, Mr. Stephen Curnow",Male,30-40,1
+465,2nd Class,1,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Female,20-30,1
+466,2nd Class,0,"Kantor, Mr. Sinai",Male,30-40,1
+467,2nd Class,1,"Kantor, Mrs. Sinai (Miriam Sternin)",Female,20-30,1
+468,2nd Class,0,"Karnes, Mrs. J Frank (Claire Bennett)",Female,20-30,1
+469,2nd Class,1,"Keane, Miss. Nora A",Female,No data,1
+470,2nd Class,0,"Keane, Mr. Daniel",Male,30-40,1
+471,2nd Class,1,"Kelly, Mrs. Florence ""Fannie""",Female,40-50,1
+472,2nd Class,0,"Kirkland, Rev. Charles Leonard",Male,50-60,1
+473,2nd Class,0,"Knight, Mr. Robert J",Male,No data,1
+474,2nd Class,0,"Kvillner, Mr. Johan Henrik Johannesson",Male,30-40,1
+475,2nd Class,0,"Lahtinen, Mrs. William (Anna Sylfven)",Female,20-30,1
+476,2nd Class,0,"Lahtinen, Rev. William",Male,20-30,1
+477,2nd Class,0,"Lamb, Mr. John Joseph",Male,No data,1
+478,2nd Class,1,"Laroche, Miss. Louise",Female,0-10,1
+479,2nd Class,1,"Laroche, Miss. Simonne Marie Anne Andree",Female,0-10,1
+480,2nd Class,0,"Laroche, Mr. Joseph Philippe Lemercier",Male,20-30,1
+481,2nd Class,1,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Female,20-30,1
+482,2nd Class,1,"Lehmann, Miss. Bertha",Female,10-20,1
+483,2nd Class,1,"Leitch, Miss. Jessie Wills",Female,No data,1
+484,2nd Class,1,"Lemore, Mrs. (Amelia Milley)",Female,30-40,1
+485,2nd Class,0,"Levy, Mr. Rene Jacques",Male,30-40,1
+486,2nd Class,0,"Leyson, Mr. Robert William Norman",Male,20-30,1
+487,2nd Class,0,"Lingane, Mr. John",Male,60-70,1
+488,2nd Class,0,"Louch, Mr. Charles Alexander",Male,40-50,1
+489,2nd Class,1,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Female,40-50,1
+490,2nd Class,0,"Mack, Mrs. (Mary)",Female,50-60,1
+491,2nd Class,0,"Malachard, Mr. Noel",Male,No data,1
+492,2nd Class,1,"Mallet, Master. Andre",Male,0-10,1
+493,2nd Class,0,"Mallet, Mr. Albert",Male,30-40,1
+494,2nd Class,1,"Mallet, Mrs. Albert (Antoinette Magnin)",Female,20-30,1
+495,2nd Class,0,"Mangiavacchi, Mr. Serafino Emilio",Male,No data,1
+496,2nd Class,0,"Matthews, Mr. William John",Male,20-30,1
+497,2nd Class,0,"Maybery, Mr. Frank Hubert",Male,30-40,1
+498,2nd Class,0,"McCrae, Mr. Arthur Gordon",Male,30-40,1
+499,2nd Class,0,"McCrie, Mr. James Matthew",Male,20-30,1
+500,2nd Class,0,"McKane, Mr. Peter David",Male,40-50,1
+501,2nd Class,1,"Mellinger, Miss. Madeleine Violet",Female,10-20,1
+502,2nd Class,1,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Female,40-50,1
+503,2nd Class,1,"Mellors, Mr. William John",Male,10-20,1
+504,2nd Class,0,"Meyer, Mr. August",Male,30-40,1
+505,2nd Class,0,"Milling, Mr. Jacob Christian",Male,40-50,1
+506,2nd Class,0,"Mitchell, Mr. Henry Michael",Male,60-70,1
+507,2nd Class,0,"Montvila, Rev. Juozas",Male,20-30,1
+508,2nd Class,0,"Moraweck, Dr. Ernest",Male,50-60,1
+509,2nd Class,0,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Male,30-40,1
+510,2nd Class,0,"Mudd, Mr. Thomas Charles",Male,10-20,1
+511,2nd Class,0,"Myles, Mr. Thomas Francis",Male,60-70,1
+512,2nd Class,0,"Nasser, Mr. Nicholas",Male,30-40,1
+513,2nd Class,1,"Nasser, Mrs. Nicholas (Adele Achem)",Female,10-20,1
+514,2nd Class,1,"Navratil, Master. Edmond Roger",Male,0-10,1
+515,2nd Class,1,"Navratil, Master. Michel M",Male,0-10,1
+516,2nd Class,0,"Navratil, Mr. Michel (""Louis M Hoffman"")",Male,30-40,1
+517,2nd Class,0,"Nesson, Mr. Israel",Male,20-30,1
+518,2nd Class,0,"Nicholls, Mr. Joseph Charles",Male,10-20,1
+519,2nd Class,0,"Norman, Mr. Robert Douglas",Male,20-30,1
+520,2nd Class,1,"Nourney, Mr. Alfred (""Baron von Drachstedt"")",Male,10-20,1
+521,2nd Class,1,"Nye, Mrs. (Elizabeth Ramell)",Female,20-30,1
+522,2nd Class,0,"Otter, Mr. Richard",Male,30-40,1
+523,2nd Class,1,"Oxenham, Mr. Percy Thomas",Male,20-30,1
+524,2nd Class,1,"Padro y Manent, Mr. Julian",Male,No data,1
+525,2nd Class,0,"Pain, Dr. Alfred",Male,20-30,1
+526,2nd Class,1,"Pallas y Castello, Mr. Emilio",Male,20-30,1
+527,2nd Class,0,"Parker, Mr. Clifford Richard",Male,20-30,1
+528,2nd Class,0,"Parkes, Mr. Francis ""Frank""",Male,No data,1
+529,2nd Class,1,"Parrish, Mrs. (Lutie Davis)",Female,40-50,1
+530,2nd Class,0,"Pengelly, Mr. Frederick William",Male,10-20,1
+531,2nd Class,0,"Pernot, Mr. Rene",Male,No data,1
+532,2nd Class,0,"Peruschitz, Rev. Joseph Maria",Male,40-50,1
+533,2nd Class,1,"Phillips, Miss. Alice Frances Louisa",Female,20-30,1
+534,2nd Class,1,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Female,10-20,1
+535,2nd Class,0,"Phillips, Mr. Escott Robert",Male,40-50,1
+536,2nd Class,1,"Pinsky, Mrs. (Rosa)",Female,30-40,1
+537,2nd Class,0,"Ponesell, Mr. Martin",Male,30-40,1
+538,2nd Class,1,"Portaluppi, Mr. Emilio Ilario Giuseppe",Male,20-30,1
+539,2nd Class,0,"Pulbaum, Mr. Franz",Male,20-30,1
+540,2nd Class,1,"Quick, Miss. Phyllis May",Female,0-10,1
+541,2nd Class,1,"Quick, Miss. Winifred Vera",Female,0-10,1
+542,2nd Class,1,"Quick, Mrs. Frederick Charles (Jane Richards)",Female,30-40,1
+543,2nd Class,0,"Reeves, Mr. David",Male,30-40,1
+544,2nd Class,0,"Renouf, Mr. Peter Henry",Male,30-40,1
+545,2nd Class,1,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Female,20-30,1
+546,2nd Class,1,"Reynaldo, Ms. Encarnacion",Female,20-30,1
+547,2nd Class,0,"Richard, Mr. Emile",Male,20-30,1
+548,2nd Class,1,"Richards, Master. George Sibley",Male,0-10,1
+549,2nd Class,1,"Richards, Master. William Rowe",Male,0-10,1
+550,2nd Class,1,"Richards, Mrs. Sidney (Emily Hocking)",Female,20-30,1
+551,2nd Class,1,"Ridsdale, Miss. Lucy",Female,40-50,1
+552,2nd Class,0,"Rogers, Mr. Reginald Harry",Male,10-20,1
+553,2nd Class,1,"Rugg, Miss. Emily",Female,20-30,1
+554,2nd Class,0,"Schmidt, Mr. August",Male,20-30,1
+555,2nd Class,0,"Sedgwick, Mr. Charles Frederick Waddington",Male,20-30,1
+556,2nd Class,0,"Sharp, Mr. Percival James R",Male,20-30,1
+557,2nd Class,1,"Shelley, Mrs. William (Imanita Parrish Hall)",Female,20-30,1
+558,2nd Class,1,"Silven, Miss. Lyyli Karoliina",Female,10-20,1
+559,2nd Class,1,"Sincock, Miss. Maude",Female,10-20,1
+560,2nd Class,1,"Sinkkonen, Miss. Anna",Female,20-30,1
+561,2nd Class,0,"Sjostedt, Mr. Ernst Adolf",Male,50-60,1
+562,2nd Class,1,"Slayter, Miss. Hilda Mary",Female,20-30,1
+563,2nd Class,0,"Slemen, Mr. Richard James",Male,30-40,1
+564,2nd Class,1,"Smith, Miss. Marion Elsie",Female,30-40,1
+565,2nd Class,0,"Sobey, Mr. Samuel James Hayden",Male,20-30,1
+566,2nd Class,0,"Stanton, Mr. Samuel Ward",Male,40-50,1
+567,2nd Class,0,"Stokes, Mr. Philip Joseph",Male,20-30,1
+568,2nd Class,0,"Swane, Mr. George",Male,10-20,1
+569,2nd Class,0,"Sweet, Mr. George Frederick",Male,10-20,1
+570,2nd Class,1,"Toomey, Miss. Ellen",Female,40-50,1
+571,2nd Class,0,"Troupiansky, Mr. Moses Aaron",Male,20-30,1
+572,2nd Class,1,"Trout, Mrs. William H (Jessie L)",Female,20-30,1
+573,2nd Class,1,"Troutt, Miss. Edwina Celia ""Winnie""",Female,20-30,1
+574,2nd Class,0,"Turpin, Mr. William John Robert",Male,20-30,1
+575,2nd Class,0,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Female,20-30,1
+576,2nd Class,0,"Veal, Mr. James",Male,30-40,1
+577,2nd Class,1,"Walcroft, Miss. Nellie",Female,30-40,1
+578,2nd Class,0,"Ware, Mr. John James",Male,20-30,1
+579,2nd Class,0,"Ware, Mr. William Jeffery",Male,20-30,1
+580,2nd Class,1,"Ware, Mrs. John James (Florence Louise Long)",Female,30-40,1
+581,2nd Class,0,"Watson, Mr. Ennis Hastings",Male,No data,1
+582,2nd Class,1,"Watt, Miss. Bertha J",Female,10-20,1
+583,2nd Class,1,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Female,30-40,1
+584,2nd Class,1,"Webber, Miss. Susan",Female,30-40,1
+585,2nd Class,0,"Weisz, Mr. Leopold",Male,20-30,1
+586,2nd Class,1,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Female,20-30,1
+587,2nd Class,1,"Wells, Master. Ralph Lester",Male,0-10,1
+588,2nd Class,1,"Wells, Miss. Joan",Female,0-10,1
+589,2nd Class,1,"Wells, Mrs. Arthur Henry (""Addie"" Dart Trevaskis)",Female,20-30,1
+590,2nd Class,1,"West, Miss. Barbara J",Female,0-10,1
+591,2nd Class,1,"West, Miss. Constance Mirium",Female,0-10,1
+592,2nd Class,0,"West, Mr. Edwy Arthur",Male,30-40,1
+593,2nd Class,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Female,30-40,1
+594,2nd Class,0,"Wheadon, Mr. Edward H",Male,60-70,1
+595,2nd Class,0,"Wheeler, Mr. Edwin ""Frederick""",Male,No data,1
+596,2nd Class,1,"Wilhelms, Mr. Charles",Male,30-40,1
+597,2nd Class,1,"Williams, Mr. Charles Eugene",Male,No data,1
+598,2nd Class,1,"Wright, Miss. Marion",Female,20-30,1
+599,2nd Class,0,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Female,20-30,1
+600,3rd Class,0,"Abbing, Mr. Anthony",Male,40-50,1
+601,3rd Class,0,"Abbott, Master. Eugene Joseph",Male,10-20,1
+602,3rd Class,0,"Abbott, Mr. Rossmore Edward",Male,10-20,1
+603,3rd Class,1,"Abbott, Mrs. Stanton (Rosa Hunt)",Female,30-40,1
+604,3rd Class,1,"Abelseth, Miss. Karen Marie",Female,10-20,1
+605,3rd Class,1,"Abelseth, Mr. Olaus Jorgensen",Male,20-30,1
+606,3rd Class,1,"Abrahamsson, Mr. Abraham August Johannes",Male,10-20,1
+607,3rd Class,1,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",Female,10-20,1
+608,3rd Class,0,"Adahl, Mr. Mauritz Nils Martin",Male,20-30,1
+609,3rd Class,0,"Adams, Mr. John",Male,20-30,1
+610,3rd Class,0,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Female,30-40,1
+611,3rd Class,1,"Aks, Master. Philip Frank",Male,0-10,1
+612,3rd Class,1,"Aks, Mrs. Sam (Leah Rosen)",Female,10-20,1
+613,3rd Class,1,"Albimona, Mr. Nassef Cassem",Male,20-30,1
+614,3rd Class,0,"Alexander, Mr. William",Male,20-30,1
+615,3rd Class,0,"Alhomaki, Mr. Ilmari Rudolf",Male,10-20,1
+616,3rd Class,0,"Ali, Mr. Ahmed",Male,20-30,1
+617,3rd Class,0,"Ali, Mr. William",Male,20-30,1
+618,3rd Class,0,"Allen, Mr. William Henry",Male,30-40,1
+619,3rd Class,0,"Allum, Mr. Owen George",Male,10-20,1
+620,3rd Class,0,"Andersen, Mr. Albert Karvin",Male,30-40,1
+621,3rd Class,1,"Andersen-Jensen, Miss. Carla Christine Nielsine",Female,10-20,1
+622,3rd Class,0,"Andersson, Master. Sigvard Harald Elias",Male,0-10,1
+623,3rd Class,0,"Andersson, Miss. Ebba Iris Alfrida",Female,0-10,1
+624,3rd Class,0,"Andersson, Miss. Ellis Anna Maria",Female,0-10,1
+625,3rd Class,1,"Andersson, Miss. Erna Alexandra",Female,10-20,1
+626,3rd Class,0,"Andersson, Miss. Ida Augusta Margareta",Female,30-40,1
+627,3rd Class,0,"Andersson, Miss. Ingeborg Constanzia",Female,0-10,1
+628,3rd Class,0,"Andersson, Miss. Sigrid Elisabeth",Female,10-20,1
+629,3rd Class,0,"Andersson, Mr. Anders Johan",Male,30-40,1
+630,3rd Class,1,"Andersson, Mr. August Edvard (""Wennerstrom"")",Male,20-30,1
+631,3rd Class,0,"Andersson, Mr. Johan Samuel",Male,20-30,1
+632,3rd Class,0,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Female,30-40,1
+633,3rd Class,0,"Andreasson, Mr. Paul Edvin",Male,10-20,1
+634,3rd Class,0,"Angheloff, Mr. Minko",Male,20-30,1
+635,3rd Class,0,"Arnold-Franchi, Mr. Josef",Male,20-30,1
+636,3rd Class,0,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Female,10-20,1
+637,3rd Class,0,"Aronsson, Mr. Ernst Axel Algot",Male,20-30,1
+638,3rd Class,0,"Asim, Mr. Adola",Male,30-40,1
+639,3rd Class,0,"Asplund, Master. Carl Edgar",Male,0-10,1
+640,3rd Class,0,"Asplund, Master. Clarence Gustaf Hugo",Male,0-10,1
+641,3rd Class,1,"Asplund, Master. Edvin Rojj Felix",Male,0-10,1
+642,3rd Class,0,"Asplund, Master. Filip Oscar",Male,10-20,1
+643,3rd Class,1,"Asplund, Miss. Lillian Gertrud",Female,0-10,1
+644,3rd Class,0,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",Male,30-40,1
+645,3rd Class,1,"Asplund, Mr. Johan Charles",Male,20-30,1
+646,3rd Class,1,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Female,30-40,1
+647,3rd Class,1,"Assaf Khalil, Mrs. Mariana (""Miriam"")",Female,40-50,1
+648,3rd Class,0,"Assaf, Mr. Gerios",Male,20-30,1
+649,3rd Class,0,"Assam, Mr. Ali",Male,20-30,1
+650,3rd Class,0,"Attalah, Miss. Malake",Female,10-20,1
+651,3rd Class,0,"Attalah, Mr. Sleiman",Male,20-30,1
+652,3rd Class,0,"Augustsson, Mr. Albert",Male,20-30,1
+653,3rd Class,1,"Ayoub, Miss. Banoura",Female,10-20,1
+654,3rd Class,0,"Baccos, Mr. Raffull",Male,10-20,1
+655,3rd Class,0,"Backstrom, Mr. Karl Alfred",Male,30-40,1
+656,3rd Class,1,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Female,30-40,1
+657,3rd Class,1,"Baclini, Miss. Eugenie",Female,0-10,1
+658,3rd Class,1,"Baclini, Miss. Helene Barbara",Female,0-10,1
+659,3rd Class,1,"Baclini, Miss. Marie Catherine",Female,0-10,1
+660,3rd Class,1,"Baclini, Mrs. Solomon (Latifa Qurban)",Female,20-30,1
+661,3rd Class,1,"Badman, Miss. Emily Louisa",Female,10-20,1
+662,3rd Class,0,"Badt, Mr. Mohamed",Male,30-40,1
+663,3rd Class,0,"Balkic, Mr. Cerin",Male,20-30,1
+664,3rd Class,1,"Barah, Mr. Hanna Assi",Male,10-20,1
+665,3rd Class,0,"Barbara, Miss. Saiide",Female,10-20,1
+666,3rd Class,0,"Barbara, Mrs. (Catherine David)",Female,40-50,1
+667,3rd Class,0,"Barry, Miss. Julia",Female,20-30,1
+668,3rd Class,0,"Barton, Mr. David John",Male,20-30,1
+669,3rd Class,0,"Beavan, Mr. William Thomas",Male,10-20,1
+670,3rd Class,0,"Bengtsson, Mr. John Viktor",Male,20-30,1
+671,3rd Class,0,"Berglund, Mr. Karl Ivar Sven",Male,20-30,1
+672,3rd Class,0,"Betros, Master. Seman",Male,No data,1
+673,3rd Class,0,"Betros, Mr. Tannous",Male,10-20,1
+674,3rd Class,1,"Bing, Mr. Lee",Male,30-40,1
+675,3rd Class,0,"Birkeland, Mr. Hans Martin Monsen",Male,20-30,1
+676,3rd Class,0,"Bjorklund, Mr. Ernst Herbert",Male,10-20,1
+677,3rd Class,0,"Bostandyeff, Mr. Guentcho",Male,20-30,1
+678,3rd Class,0,"Boulos, Master. Akar",Male,0-10,1
+679,3rd Class,0,"Boulos, Miss. Nourelain",Female,0-10,1
+680,3rd Class,0,"Boulos, Mr. Hanna",Male,No data,1
+681,3rd Class,0,"Boulos, Mrs. Joseph (Sultana)",Female,No data,1
+682,3rd Class,0,"Bourke, Miss. Mary",Female,No data,1
+683,3rd Class,0,"Bourke, Mr. John",Male,30-40,1
+684,3rd Class,0,"Bourke, Mrs. John (Catherine)",Female,30-40,1
+685,3rd Class,0,"Bowen, Mr. David John ""Dai""",Male,20-30,1
+686,3rd Class,1,"Bradley, Miss. Bridget Delia",Female,20-30,1
+687,3rd Class,0,"Braf, Miss. Elin Ester Maria",Female,10-20,1
+688,3rd Class,0,"Braund, Mr. Lewis Richard",Male,20-30,1
+689,3rd Class,0,"Braund, Mr. Owen Harris",Male,20-30,1
+690,3rd Class,0,"Brobeck, Mr. Karl Rudolf",Male,20-30,1
+691,3rd Class,0,"Brocklebank, Mr. William Alfred",Male,30-40,1
+692,3rd Class,0,"Buckley, Miss. Katherine",Female,10-20,1
+693,3rd Class,1,"Buckley, Mr. Daniel",Male,20-30,1
+694,3rd Class,0,"Burke, Mr. Jeremiah",Male,10-20,1
+695,3rd Class,0,"Burns, Miss. Mary Delia",Female,10-20,1
+696,3rd Class,0,"Cacic, Miss. Manda",Female,20-30,1
+697,3rd Class,0,"Cacic, Miss. Marija",Female,20-30,1
+698,3rd Class,0,"Cacic, Mr. Jego Grga",Male,10-20,1
+699,3rd Class,0,"Cacic, Mr. Luka",Male,30-40,1
+700,3rd Class,0,"Calic, Mr. Jovo",Male,10-20,1
+701,3rd Class,0,"Calic, Mr. Petar",Male,10-20,1
+702,3rd Class,0,"Canavan, Miss. Mary",Female,20-30,1
+703,3rd Class,0,"Canavan, Mr. Patrick",Male,20-30,1
+704,3rd Class,0,"Cann, Mr. Ernest Charles",Male,20-30,1
+705,3rd Class,0,"Caram, Mr. Joseph",Male,No data,1
+706,3rd Class,0,"Caram, Mrs. Joseph (Maria Elias)",Female,No data,1
+707,3rd Class,0,"Carlsson, Mr. August Sigfrid",Male,20-30,1
+708,3rd Class,0,"Carlsson, Mr. Carl Robert",Male,20-30,1
+709,3rd Class,1,"Carr, Miss. Helen ""Ellen""",Female,10-20,1
+710,3rd Class,0,"Carr, Miss. Jeannie",Female,30-40,1
+711,3rd Class,0,"Carver, Mr. Alfred John",Male,20-30,1
+712,3rd Class,0,"Celotti, Mr. Francesco",Male,20-30,1
+713,3rd Class,0,"Charters, Mr. David",Male,20-30,1
+714,3rd Class,1,"Chip, Mr. Chang",Male,30-40,1
+715,3rd Class,0,"Christmann, Mr. Emil",Male,20-30,1
+716,3rd Class,0,"Chronopoulos, Mr. Apostolos",Male,20-30,1
+717,3rd Class,0,"Chronopoulos, Mr. Demetrios",Male,10-20,1
+718,3rd Class,0,"Coelho, Mr. Domingos Fernandeo",Male,10-20,1
+719,3rd Class,1,"Cohen, Mr. Gurshon ""Gus""",Male,10-20,1
+720,3rd Class,0,"Colbert, Mr. Patrick",Male,20-30,1
+721,3rd Class,0,"Coleff, Mr. Peju",Male,30-40,1
+722,3rd Class,0,"Coleff, Mr. Satio",Male,20-30,1
+723,3rd Class,0,"Conlon, Mr. Thomas Henry",Male,30-40,1
+724,3rd Class,0,"Connaghton, Mr. Michael",Male,30-40,1
+725,3rd Class,1,"Connolly, Miss. Kate",Female,20-30,1
+726,3rd Class,0,"Connolly, Miss. Kate",Female,20-30,1
+727,3rd Class,0,"Connors, Mr. Patrick",Male,70-80,1
+728,3rd Class,0,"Cook, Mr. Jacob",Male,40-50,1
+729,3rd Class,0,"Cor, Mr. Bartol",Male,30-40,1
+730,3rd Class,0,"Cor, Mr. Ivan",Male,20-30,1
+731,3rd Class,0,"Cor, Mr. Liudevit",Male,10-20,1
+732,3rd Class,0,"Corn, Mr. Harry",Male,20-30,1
+733,3rd Class,1,"Coutts, Master. Eden Leslie ""Neville""",Male,0-10,1
+734,3rd Class,1,"Coutts, Master. William Loch ""William""",Male,0-10,1
+735,3rd Class,1,"Coutts, Mrs. William (Winnie ""Minnie"" Treanor)",Female,30-40,1
+736,3rd Class,0,"Coxon, Mr. Daniel",Male,50-60,1
+737,3rd Class,0,"Crease, Mr. Ernest James",Male,10-20,1
+738,3rd Class,1,"Cribb, Miss. Laura Alice",Female,10-20,1
+739,3rd Class,0,"Cribb, Mr. John Hatfield",Male,40-50,1
+740,3rd Class,0,"Culumovic, Mr. Jeso",Male,10-20,1
+741,3rd Class,0,"Daher, Mr. Shedid",Male,20-30,1
+742,3rd Class,1,"Dahl, Mr. Karl Edwart",Male,40-50,1
+743,3rd Class,0,"Dahlberg, Miss. Gerda Ulrika",Female,20-30,1
+744,3rd Class,0,"Dakic, Mr. Branko",Male,10-20,1
+745,3rd Class,1,"Daly, Miss. Margaret Marcella ""Maggie""",Female,20-30,1
+746,3rd Class,1,"Daly, Mr. Eugene Patrick",Male,20-30,1
+747,3rd Class,0,"Danbom, Master. Gilbert Sigvard Emanuel",Male,0-10,1
+748,3rd Class,0,"Danbom, Mr. Ernst Gilbert",Male,30-40,1
+749,3rd Class,0,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Female,20-30,1
+750,3rd Class,0,"Danoff, Mr. Yoto",Male,20-30,1
+751,3rd Class,0,"Dantcheff, Mr. Ristiu",Male,20-30,1
+752,3rd Class,0,"Davies, Mr. Alfred J",Male,20-30,1
+753,3rd Class,0,"Davies, Mr. Evan",Male,20-30,1
+754,3rd Class,0,"Davies, Mr. John Samuel",Male,20-30,1
+755,3rd Class,0,"Davies, Mr. Joseph",Male,10-20,1
+756,3rd Class,0,"Davison, Mr. Thomas Henry",Male,No data,1
+757,3rd Class,1,"Davison, Mrs. Thomas Henry (Mary E Finck)",Female,No data,1
+758,3rd Class,1,"de Messemaeker, Mr. Guillaume Joseph",Male,30-40,1
+759,3rd Class,1,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Female,30-40,1
+760,3rd Class,1,"de Mulder, Mr. Theodore",Male,20-30,1
+761,3rd Class,0,"de Pelsmaeker, Mr. Alfons",Male,10-20,1
+762,3rd Class,1,"Dean, Master. Bertram Vere",Male,0-10,1
+763,3rd Class,1,"Dean, Miss. Elizabeth Gladys ""Millvina""",Female,0-10,1
+764,3rd Class,0,"Dean, Mr. Bertram Frank",Male,20-30,1
+765,3rd Class,1,"Dean, Mrs. Bertram (Eva Georgetta Light)",Female,30-40,1
+766,3rd Class,0,"Delalic, Mr. Redjo",Male,20-30,1
+767,3rd Class,0,"Demetri, Mr. Marinko",Male,No data,1
+768,3rd Class,0,"Denkoff, Mr. Mitto",Male,No data,1
+769,3rd Class,0,"Dennis, Mr. Samuel",Male,20-30,1
+770,3rd Class,0,"Dennis, Mr. William",Male,30-40,1
+771,3rd Class,1,"Devaney, Miss. Margaret Delia",Female,10-20,1
+772,3rd Class,0,"Dika, Mr. Mirko",Male,10-20,1
+773,3rd Class,0,"Dimic, Mr. Jovan",Male,40-50,1
+774,3rd Class,0,"Dintcheff, Mr. Valtcho",Male,40-50,1
+775,3rd Class,0,"Doharr, Mr. Tannous",Male,No data,1
+776,3rd Class,0,"Dooley, Mr. Patrick",Male,30-40,1
+777,3rd Class,1,"Dorking, Mr. Edward Arthur",Male,10-20,1
+778,3rd Class,1,"Dowdell, Miss. Elizabeth",Female,20-30,1
+779,3rd Class,0,"Doyle, Miss. Elizabeth",Female,20-30,1
+780,3rd Class,1,"Drapkin, Miss. Jennie",Female,20-30,1
+781,3rd Class,0,"Drazenoic, Mr. Jozef",Male,30-40,1
+782,3rd Class,0,"Duane, Mr. Frank",Male,60-70,1
+783,3rd Class,1,"Duquemin, Mr. Joseph",Male,20-30,1
+784,3rd Class,0,"Dyker, Mr. Adolf Fredrik",Male,20-30,1
+785,3rd Class,1,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",Female,20-30,1
+786,3rd Class,0,"Edvardsson, Mr. Gustaf Hjalmar",Male,10-20,1
+787,3rd Class,0,"Eklund, Mr. Hans Linus",Male,10-20,1
+788,3rd Class,0,"Ekstrom, Mr. Johan",Male,40-50,1
+789,3rd Class,0,"Elias, Mr. Dibo",Male,No data,1
+790,3rd Class,0,"Elias, Mr. Joseph",Male,30-40,1
+791,3rd Class,0,"Elias, Mr. Joseph Jr",Male,10-20,1
+792,3rd Class,0,"Elias, Mr. Tannous",Male,10-20,1
+793,3rd Class,0,"Elsbury, Mr. William James",Male,40-50,1
+794,3rd Class,1,"Emanuel, Miss. Virginia Ethel",Female,0-10,1
+795,3rd Class,0,"Emir, Mr. Farred Chehab",Male,No data,1
+796,3rd Class,0,"Everett, Mr. Thomas James",Male,40-50,1
+797,3rd Class,0,"Farrell, Mr. James",Male,40-50,1
+798,3rd Class,1,"Finoli, Mr. Luigi",Male,No data,1
+799,3rd Class,0,"Fischer, Mr. Eberhard Thelander",Male,10-20,1
+800,3rd Class,0,"Fleming, Miss. Honora",Female,No data,1
+801,3rd Class,0,"Flynn, Mr. James",Male,No data,1
+802,3rd Class,0,"Flynn, Mr. John",Male,No data,1
+803,3rd Class,0,"Foley, Mr. Joseph",Male,20-30,1
+804,3rd Class,0,"Foley, Mr. William",Male,No data,1
+805,3rd Class,1,"Foo, Mr. Choong",Male,No data,1
+806,3rd Class,0,"Ford, Miss. Doolina Margaret ""Daisy""",Female,20-30,1
+807,3rd Class,0,"Ford, Miss. Robina Maggie ""Ruby""",Female,0-10,1
+808,3rd Class,0,"Ford, Mr. Arthur",Male,No data,1
+809,3rd Class,0,"Ford, Mr. Edward Watson",Male,10-20,1
+810,3rd Class,0,"Ford, Mr. William Neal",Male,10-20,1
+811,3rd Class,0,"Ford, Mrs. Edward (Margaret Ann Watson)",Female,40-50,1
+812,3rd Class,0,"Fox, Mr. Patrick",Male,No data,1
+813,3rd Class,0,"Franklin, Mr. Charles (Charles Fardon)",Male,No data,1
+814,3rd Class,0,"Gallagher, Mr. Martin",Male,20-30,1
+815,3rd Class,0,"Garfirth, Mr. John",Male,No data,1
+816,3rd Class,0,"Gheorgheff, Mr. Stanio",Male,No data,1
+817,3rd Class,0,"Gilinski, Mr. Eliezer",Male,20-30,1
+818,3rd Class,1,"Gilnagh, Miss. Katherine ""Katie""",Female,10-20,1
+819,3rd Class,1,"Glynn, Miss. Mary Agatha",Female,No data,1
+820,3rd Class,1,"Goldsmith, Master. Frank John William ""Frankie""",Male,0-10,1
+821,3rd Class,0,"Goldsmith, Mr. Frank John",Male,30-40,1
+822,3rd Class,0,"Goldsmith, Mr. Nathan",Male,40-50,1
+823,3rd Class,1,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Female,30-40,1
+824,3rd Class,0,"Goncalves, Mr. Manuel Estanslas",Male,30-40,1
+825,3rd Class,0,"Goodwin, Master. Harold Victor",Male,0-10,1
+826,3rd Class,0,"Goodwin, Master. Sidney Leonard",Male,0-10,1
+827,3rd Class,0,"Goodwin, Master. William Frederick",Male,10-20,1
+828,3rd Class,0,"Goodwin, Miss. Jessie Allis",Female,0-10,1
+829,3rd Class,0,"Goodwin, Miss. Lillian Amy",Female,10-20,1
+830,3rd Class,0,"Goodwin, Mr. Charles Edward",Male,10-20,1
+831,3rd Class,0,"Goodwin, Mr. Charles Frederick",Male,30-40,1
+832,3rd Class,0,"Goodwin, Mrs. Frederick (Augusta Tyler)",Female,40-50,1
+833,3rd Class,0,"Green, Mr. George Henry",Male,50-60,1
+834,3rd Class,0,"Gronnestad, Mr. Daniel Danielsen",Male,30-40,1
+835,3rd Class,0,"Guest, Mr. Robert",Male,No data,1
+836,3rd Class,0,"Gustafsson, Mr. Alfred Ossian",Male,10-20,1
+837,3rd Class,0,"Gustafsson, Mr. Anders Vilhelm",Male,30-40,1
+838,3rd Class,0,"Gustafsson, Mr. Johan Birger",Male,20-30,1
+839,3rd Class,0,"Gustafsson, Mr. Karl Gideon",Male,10-20,1
+840,3rd Class,0,"Haas, Miss. Aloisia",Female,20-30,1
+841,3rd Class,0,"Hagardon, Miss. Kate",Female,10-20,1
+842,3rd Class,0,"Hagland, Mr. Ingvald Olai Olsen",Male,No data,1
+843,3rd Class,0,"Hagland, Mr. Konrad Mathias Reiersen",Male,No data,1
+844,3rd Class,0,"Hakkarainen, Mr. Pekka Pietari",Male,20-30,1
+845,3rd Class,1,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Female,20-30,1
+846,3rd Class,0,"Hampe, Mr. Leon",Male,10-20,1
+847,3rd Class,0,"Hanna, Mr. Mansour",Male,20-30,1
+848,3rd Class,0,"Hansen, Mr. Claus Peter",Male,40-50,1
+849,3rd Class,0,"Hansen, Mr. Henrik Juul",Male,20-30,1
+850,3rd Class,0,"Hansen, Mr. Henry Damsgaard",Male,20-30,1
+851,3rd Class,1,"Hansen, Mrs. Claus Peter (Jennie L Howard)",Female,40-50,1
+852,3rd Class,0,"Harknett, Miss. Alice Phoebe",Female,No data,1
+853,3rd Class,0,"Harmer, Mr. Abraham (David Lishin)",Male,20-30,1
+854,3rd Class,0,"Hart, Mr. Henry",Male,No data,1
+855,3rd Class,0,"Hassan, Mr. Houssein G N",Male,10-20,1
+856,3rd Class,1,"Healy, Miss. Hanora ""Nora""",Female,No data,1
+857,3rd Class,1,"Hedman, Mr. Oskar Arvid",Male,20-30,1
+858,3rd Class,1,"Hee, Mr. Ling",Male,No data,1
+859,3rd Class,0,"Hegarty, Miss. Hanora ""Nora""",Female,10-20,1
+860,3rd Class,1,"Heikkinen, Miss. Laina",Female,20-30,1
+861,3rd Class,0,"Heininen, Miss. Wendla Maria",Female,20-30,1
+862,3rd Class,1,"Hellstrom, Miss. Hilda Maria",Female,20-30,1
+863,3rd Class,0,"Hendekovic, Mr. Ignjac",Male,20-30,1
+864,3rd Class,0,"Henriksson, Miss. Jenny Lovisa",Female,20-30,1
+865,3rd Class,0,"Henry, Miss. Delia",Female,No data,1
+866,3rd Class,1,"Hirvonen, Miss. Hildur E",Female,0-10,1
+867,3rd Class,1,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",Female,20-30,1
+868,3rd Class,0,"Holm, Mr. John Fredrik Alexander",Male,40-50,1
+869,3rd Class,0,"Holthen, Mr. Johan Martin",Male,20-30,1
+870,3rd Class,1,"Honkanen, Miss. Eliina",Female,20-30,1
+871,3rd Class,0,"Horgan, Mr. John",Male,No data,1
+872,3rd Class,1,"Howard, Miss. May Elizabeth",Female,No data,1
+873,3rd Class,0,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Male,40-50,1
+874,3rd Class,1,"Hyman, Mr. Abraham",Male,No data,1
+875,3rd Class,0,"Ibrahim Shawah, Mr. Yousseff",Male,20-30,1
+876,3rd Class,0,"Ilieff, Mr. Ylio",Male,No data,1
+877,3rd Class,0,"Ilmakangas, Miss. Ida Livija",Female,20-30,1
+878,3rd Class,0,"Ilmakangas, Miss. Pieta Sofia",Female,20-30,1
+879,3rd Class,0,"Ivanoff, Mr. Kanio",Male,No data,1
+880,3rd Class,1,"Jalsevac, Mr. Ivan",Male,20-30,1
+881,3rd Class,1,"Jansson, Mr. Carl Olof",Male,20-30,1
+882,3rd Class,0,"Jardin, Mr. Jose Neto",Male,No data,1
+883,3rd Class,0,"Jensen, Mr. Hans Peder",Male,10-20,1
+884,3rd Class,0,"Jensen, Mr. Niels Peder",Male,40-50,1
+885,3rd Class,0,"Jensen, Mr. Svend Lauritz",Male,10-20,1
+886,3rd Class,1,"Jermyn, Miss. Annie",Female,No data,1
+887,3rd Class,1,"Johannesen-Bratthammer, Mr. Bernt",Male,No data,1
+888,3rd Class,0,"Johanson, Mr. Jakob Alfred",Male,30-40,1
+889,3rd Class,1,"Johansson Palmquist, Mr. Oskar Leander",Male,20-30,1
+890,3rd Class,0,"Johansson, Mr. Erik",Male,20-30,1
+891,3rd Class,0,"Johansson, Mr. Gustaf Joel",Male,30-40,1
+892,3rd Class,0,"Johansson, Mr. Karl Johan",Male,30-40,1
+893,3rd Class,0,"Johansson, Mr. Nils",Male,20-30,1
+894,3rd Class,1,"Johnson, Master. Harold Theodor",Male,0-10,1
+895,3rd Class,1,"Johnson, Miss. Eleanor Ileen",Female,0-10,1
+896,3rd Class,0,"Johnson, Mr. Alfred",Male,40-50,1
+897,3rd Class,0,"Johnson, Mr. Malkolm Joackim",Male,30-40,1
+898,3rd Class,0,"Johnson, Mr. William Cahoone Jr",Male,10-20,1
+899,3rd Class,1,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Female,20-30,1
+900,3rd Class,0,"Johnston, Master. William Arthur ""Willie""",Male,No data,1
+901,3rd Class,0,"Johnston, Miss. Catherine Helen ""Carrie""",Female,No data,1
+902,3rd Class,0,"Johnston, Mr. Andrew G",Male,No data,1
+903,3rd Class,0,"Johnston, Mrs. Andrew G (Elizabeth ""Lily"" Watson)",Female,No data,1
+904,3rd Class,0,"Jonkoff, Mr. Lalio",Male,20-30,1
+905,3rd Class,1,"Jonsson, Mr. Carl",Male,30-40,1
+906,3rd Class,0,"Jonsson, Mr. Nils Hilding",Male,20-30,1
+907,3rd Class,0,"Jussila, Miss. Katriina",Female,10-20,1
+908,3rd Class,0,"Jussila, Miss. Mari Aina",Female,20-30,1
+909,3rd Class,1,"Jussila, Mr. Eiriik",Male,30-40,1
+910,3rd Class,0,"Kallio, Mr. Nikolai Erland",Male,10-20,1
+911,3rd Class,0,"Kalvik, Mr. Johannes Halvorsen",Male,20-30,1
+912,3rd Class,0,"Karaic, Mr. Milan",Male,20-30,1
+913,3rd Class,1,"Karlsson, Mr. Einar Gervasius",Male,20-30,1
+914,3rd Class,0,"Karlsson, Mr. Julius Konrad Eugen",Male,30-40,1
+915,3rd Class,0,"Karlsson, Mr. Nils August",Male,20-30,1
+916,3rd Class,1,"Karun, Miss. Manca",Female,0-10,1
+917,3rd Class,1,"Karun, Mr. Franz",Male,30-40,1
+918,3rd Class,0,"Kassem, Mr. Fared",Male,No data,1
+919,3rd Class,0,"Katavelas, Mr. Vassilios (""Catavelas Vassilios"")",Male,10-20,1
+920,3rd Class,0,"Keane, Mr. Andrew ""Andy""",Male,No data,1
+921,3rd Class,0,"Keefe, Mr. Arthur",Male,No data,1
+922,3rd Class,1,"Kelly, Miss. Anna Katherine ""Annie Kate""",Female,No data,1
+923,3rd Class,1,"Kelly, Miss. Mary",Female,No data,1
+924,3rd Class,0,"Kelly, Mr. James",Male,30-40,1
+925,3rd Class,0,"Kelly, Mr. James",Male,40-50,1
+926,3rd Class,1,"Kennedy, Mr. John",Male,No data,1
+927,3rd Class,0,"Khalil, Mr. Betros",Male,No data,1
+928,3rd Class,0,"Khalil, Mrs. Betros (Zahie ""Maria"" Elias)",Female,No data,1
+929,3rd Class,0,"Kiernan, Mr. John",Male,No data,1
+930,3rd Class,0,"Kiernan, Mr. Philip",Male,No data,1
+931,3rd Class,0,"Kilgannon, Mr. Thomas J",Male,No data,1
+932,3rd Class,0,"Kink, Miss. Maria",Female,20-30,1
+933,3rd Class,0,"Kink, Mr. Vincenz",Male,20-30,1
+934,3rd Class,1,"Kink-Heilmann, Miss. Luise Gretchen",Female,0-10,1
+935,3rd Class,1,"Kink-Heilmann, Mr. Anton",Male,20-30,1
+936,3rd Class,1,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",Female,20-30,1
+937,3rd Class,0,"Klasen, Miss. Gertrud Emilia",Female,0-10,1
+938,3rd Class,0,"Klasen, Mr. Klas Albin",Male,10-20,1
+939,3rd Class,0,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",Female,30-40,1
+940,3rd Class,0,"Kraeff, Mr. Theodor",Male,No data,1
+941,3rd Class,1,"Krekorian, Mr. Neshan",Male,20-30,1
+942,3rd Class,0,"Lahoud, Mr. Sarkis",Male,No data,1
+943,3rd Class,0,"Laitinen, Miss. Kristina Sofia",Female,30-40,1
+944,3rd Class,0,"Laleff, Mr. Kristo",Male,No data,1
+945,3rd Class,1,"Lam, Mr. Ali",Male,No data,1
+946,3rd Class,0,"Lam, Mr. Len",Male,No data,1
+947,3rd Class,1,"Landergren, Miss. Aurora Adelia",Female,20-30,1
+948,3rd Class,0,"Lane, Mr. Patrick",Male,No data,1
+949,3rd Class,1,"Lang, Mr. Fang",Male,20-30,1
+950,3rd Class,0,"Larsson, Mr. August Viktor",Male,20-30,1
+951,3rd Class,0,"Larsson, Mr. Bengt Edvin",Male,20-30,1
+952,3rd Class,0,"Larsson-Rondberg, Mr. Edvard A",Male,20-30,1
+953,3rd Class,1,"Leeni, Mr. Fahim (""Philip Zenni"")",Male,20-30,1
+954,3rd Class,0,"Lefebre, Master. Henry Forbes",Male,No data,1
+955,3rd Class,0,"Lefebre, Miss. Ida",Female,No data,1
+956,3rd Class,0,"Lefebre, Miss. Jeannie",Female,No data,1
+957,3rd Class,0,"Lefebre, Miss. Mathilde",Female,No data,1
+958,3rd Class,0,"Lefebre, Mrs. Frank (Frances)",Female,No data,1
+959,3rd Class,0,"Leinonen, Mr. Antti Gustaf",Male,30-40,1
+960,3rd Class,0,"Lemberopolous, Mr. Peter L",Male,30-40,1
+961,3rd Class,0,"Lennon, Miss. Mary",Female,No data,1
+962,3rd Class,0,"Lennon, Mr. Denis",Male,No data,1
+963,3rd Class,0,"Leonard, Mr. Lionel",Male,30-40,1
+964,3rd Class,0,"Lester, Mr. James",Male,30-40,1
+965,3rd Class,0,"Lievens, Mr. Rene Aime",Male,20-30,1
+966,3rd Class,0,"Lindahl, Miss. Agda Thorilda Viktoria",Female,20-30,1
+967,3rd Class,0,"Lindblom, Miss. Augusta Charlotta",Female,40-50,1
+968,3rd Class,0,"Lindell, Mr. Edvard Bengtsson",Male,30-40,1
+969,3rd Class,0,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",Female,20-30,1
+970,3rd Class,1,"Lindqvist, Mr. Eino William",Male,10-20,1
+971,3rd Class,0,"Linehan, Mr. Michael",Male,No data,1
+972,3rd Class,0,"Ling, Mr. Lee",Male,20-30,1
+973,3rd Class,0,"Lithman, Mr. Simon",Male,No data,1
+974,3rd Class,0,"Lobb, Mr. William Arthur",Male,20-30,1
+975,3rd Class,0,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Female,20-30,1
+976,3rd Class,0,"Lockyer, Mr. Edward",Male,No data,1
+977,3rd Class,0,"Lovell, Mr. John Hall (""Henry"")",Male,20-30,1
+978,3rd Class,1,"Lulic, Mr. Nikola",Male,20-30,1
+979,3rd Class,0,"Lundahl, Mr. Johan Svensson",Male,50-60,1
+980,3rd Class,1,"Lundin, Miss. Olga Elida",Female,20-30,1
+981,3rd Class,1,"Lundstrom, Mr. Thure Edvin",Male,30-40,1
+982,3rd Class,0,"Lyntakoff, Mr. Stanko",Male,No data,1
+983,3rd Class,0,"MacKay, Mr. George William",Male,No data,1
+984,3rd Class,1,"Madigan, Miss. Margaret ""Maggie""",Female,No data,1
+985,3rd Class,1,"Madsen, Mr. Fridtjof Arne",Male,20-30,1
+986,3rd Class,0,"Maenpaa, Mr. Matti Alexanteri",Male,20-30,1
+987,3rd Class,0,"Mahon, Miss. Bridget Delia",Female,No data,1
+988,3rd Class,0,"Mahon, Mr. John",Male,No data,1
+989,3rd Class,0,"Maisner, Mr. Simon",Male,No data,1
+990,3rd Class,0,"Makinen, Mr. Kalle Edvard",Male,20-30,1
+991,3rd Class,1,"Mamee, Mr. Hanna",Male,No data,1
+992,3rd Class,0,"Mangan, Miss. Mary",Female,30-40,1
+993,3rd Class,1,"Mannion, Miss. Margareth",Female,No data,1
+994,3rd Class,0,"Mardirosian, Mr. Sarkis",Male,No data,1
+995,3rd Class,0,"Markoff, Mr. Marin",Male,30-40,1
+996,3rd Class,0,"Markun, Mr. Johann",Male,30-40,1
+997,3rd Class,1,"Masselmani, Mrs. Fatima",Female,No data,1
+998,3rd Class,0,"Matinoff, Mr. Nicola",Male,No data,1
+999,3rd Class,1,"McCarthy, Miss. Catherine ""Katie""",Female,No data,1
+1000,3rd Class,1,"McCormack, Mr. Thomas Joseph",Male,No data,1
+1001,3rd Class,1,"McCoy, Miss. Agnes",Female,No data,1
+1002,3rd Class,1,"McCoy, Miss. Alicia",Female,No data,1
+1003,3rd Class,1,"McCoy, Mr. Bernard",Male,No data,1
+1004,3rd Class,1,"McDermott, Miss. Brigdet Delia",Female,No data,1
+1005,3rd Class,0,"McEvoy, Mr. Michael",Male,No data,1
+1006,3rd Class,1,"McGovern, Miss. Mary",Female,No data,1
+1007,3rd Class,1,"McGowan, Miss. Anna ""Annie""",Female,10-20,1
+1008,3rd Class,0,"McGowan, Miss. Katherine",Female,30-40,1
+1009,3rd Class,0,"McMahon, Mr. Martin",Male,No data,1
+1010,3rd Class,0,"McNamee, Mr. Neal",Male,20-30,1
+1011,3rd Class,0,"McNamee, Mrs. Neal (Eileen O'Leary)",Female,10-20,1
+1012,3rd Class,0,"McNeill, Miss. Bridget",Female,No data,1
+1013,3rd Class,0,"Meanwell, Miss. (Marion Ogden)",Female,No data,1
+1014,3rd Class,0,"Meek, Mrs. Thomas (Annie Louise Rowley)",Female,No data,1
+1015,3rd Class,0,"Meo, Mr. Alfonzo",Male,50-60,1
+1016,3rd Class,0,"Mernagh, Mr. Robert",Male,No data,1
+1017,3rd Class,1,"Midtsjo, Mr. Karl Albert",Male,20-30,1
+1018,3rd Class,0,"Miles, Mr. Frank",Male,No data,1
+1019,3rd Class,0,"Mineff, Mr. Ivan",Male,20-30,1
+1020,3rd Class,0,"Minkoff, Mr. Lazar",Male,20-30,1
+1021,3rd Class,0,"Mionoff, Mr. Stoytcho",Male,20-30,1
+1022,3rd Class,0,"Mitkoff, Mr. Mito",Male,No data,1
+1023,3rd Class,1,"Mockler, Miss. Helen Mary ""Ellie""",Female,No data,1
+1024,3rd Class,0,"Moen, Mr. Sigurd Hansen",Male,20-30,1
+1025,3rd Class,1,"Moor, Master. Meier",Male,0-10,1
+1026,3rd Class,1,"Moor, Mrs. (Beila)",Female,20-30,1
+1027,3rd Class,0,"Moore, Mr. Leonard Charles",Male,No data,1
+1028,3rd Class,1,"Moran, Miss. Bertha",Female,No data,1
+1029,3rd Class,0,"Moran, Mr. Daniel J",Male,No data,1
+1030,3rd Class,0,"Moran, Mr. James",Male,No data,1
+1031,3rd Class,0,"Morley, Mr. William",Male,30-40,1
+1032,3rd Class,0,"Morrow, Mr. Thomas Rowan",Male,No data,1
+1033,3rd Class,1,"Moss, Mr. Albert Johan",Male,No data,1
+1034,3rd Class,1,"Moubarek, Master. Gerios",Male,No data,1
+1035,3rd Class,1,"Moubarek, Master. Halim Gonios (""William George"")",Male,No data,1
+1036,3rd Class,1,"Moubarek, Mrs. George (Omine ""Amenia"" Alexander)",Female,No data,1
+1037,3rd Class,1,"Moussa, Mrs. (Mantoura Boulos)",Female,No data,1
+1038,3rd Class,0,"Moutal, Mr. Rahamin Haim",Male,No data,1
+1039,3rd Class,1,"Mullens, Miss. Katherine ""Katie""",Female,No data,1
+1040,3rd Class,1,"Mulvihill, Miss. Bertha E",Female,20-30,1
+1041,3rd Class,0,"Murdlin, Mr. Joseph",Male,No data,1
+1042,3rd Class,1,"Murphy, Miss. Katherine ""Kate""",Female,No data,1
+1043,3rd Class,1,"Murphy, Miss. Margaret Jane",Female,No data,1
+1044,3rd Class,1,"Murphy, Miss. Nora",Female,No data,1
+1045,3rd Class,0,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Male,10-20,1
+1046,3rd Class,0,"Naidenoff, Mr. Penko",Male,20-30,1
+1047,3rd Class,1,"Najib, Miss. Adele Kiamie ""Jane""",Female,10-20,1
+1048,3rd Class,1,"Nakid, Miss. Maria (""Mary"")",Female,0-10,1
+1049,3rd Class,1,"Nakid, Mr. Sahid",Male,10-20,1
+1050,3rd Class,1,"Nakid, Mrs. Said (Waika ""Mary"" Mowad)",Female,10-20,1
+1051,3rd Class,0,"Nancarrow, Mr. William Henry",Male,30-40,1
+1052,3rd Class,0,"Nankoff, Mr. Minko",Male,No data,1
+1053,3rd Class,0,"Nasr, Mr. Mustafa",Male,No data,1
+1054,3rd Class,0,"Naughton, Miss. Hannah",Female,No data,1
+1055,3rd Class,0,"Nenkoff, Mr. Christo",Male,No data,1
+1056,3rd Class,1,"Nicola-Yarred, Master. Elias",Male,10-20,1
+1057,3rd Class,1,"Nicola-Yarred, Miss. Jamila",Female,10-20,1
+1058,3rd Class,0,"Nieminen, Miss. Manta Josefina",Female,20-30,1
+1059,3rd Class,0,"Niklasson, Mr. Samuel",Male,20-30,1
+1060,3rd Class,1,"Nilsson, Miss. Berta Olivia",Female,10-20,1
+1061,3rd Class,1,"Nilsson, Miss. Helmina Josefina",Female,20-30,1
+1062,3rd Class,0,"Nilsson, Mr. August Ferdinand",Male,20-30,1
+1063,3rd Class,0,"Nirva, Mr. Iisakki Antino Aijo",Male,40-50,1
+1064,3rd Class,1,"Niskanen, Mr. Juha",Male,30-40,1
+1065,3rd Class,0,"Nosworthy, Mr. Richard Cater",Male,20-30,1
+1066,3rd Class,0,"Novel, Mr. Mansouer",Male,20-30,1
+1067,3rd Class,1,"Nysten, Miss. Anna Sofia",Female,20-30,1
+1068,3rd Class,0,"Nysveen, Mr. Johan Hansen",Male,60-70,1
+1069,3rd Class,0,"O'Brien, Mr. Thomas",Male,No data,1
+1070,3rd Class,0,"O'Brien, Mr. Timothy",Male,No data,1
+1071,3rd Class,1,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",Female,No data,1
+1072,3rd Class,0,"O'Connell, Mr. Patrick D",Male,No data,1
+1073,3rd Class,0,"O'Connor, Mr. Maurice",Male,No data,1
+1074,3rd Class,0,"O'Connor, Mr. Patrick",Male,No data,1
+1075,3rd Class,0,"Odahl, Mr. Nils Martin",Male,20-30,1
+1076,3rd Class,0,"O'Donoghue, Ms. Bridget",Female,No data,1
+1077,3rd Class,1,"O'Driscoll, Miss. Bridget",Female,No data,1
+1078,3rd Class,1,"O'Dwyer, Miss. Ellen ""Nellie""",Female,No data,1
+1079,3rd Class,1,"Ohman, Miss. Velin",Female,20-30,1
+1080,3rd Class,1,"O'Keefe, Mr. Patrick",Male,No data,1
+1081,3rd Class,1,"O'Leary, Miss. Hanora ""Norah""",Female,No data,1
+1082,3rd Class,1,"Olsen, Master. Artur Karl",Male,0-10,1
+1083,3rd Class,0,"Olsen, Mr. Henry Margido",Male,20-30,1
+1084,3rd Class,0,"Olsen, Mr. Karl Siegwart Andreas",Male,40-50,1
+1085,3rd Class,0,"Olsen, Mr. Ole Martin",Male,No data,1
+1086,3rd Class,0,"Olsson, Miss. Elina",Female,30-40,1
+1087,3rd Class,0,"Olsson, Mr. Nils Johan Goransson",Male,20-30,1
+1088,3rd Class,1,"Olsson, Mr. Oscar Wilhelm",Male,30-40,1
+1089,3rd Class,0,"Olsvigen, Mr. Thor Anderson",Male,10-20,1
+1090,3rd Class,0,"Oreskovic, Miss. Jelka",Female,20-30,1
+1091,3rd Class,0,"Oreskovic, Miss. Marija",Female,10-20,1
+1092,3rd Class,0,"Oreskovic, Mr. Luka",Male,10-20,1
+1093,3rd Class,0,"Osen, Mr. Olaf Elon",Male,10-20,1
+1094,3rd Class,1,"Osman, Mrs. Mara",Female,30-40,1
+1095,3rd Class,0,"O'Sullivan, Miss. Bridget Mary",Female,No data,1
+1096,3rd Class,0,"Palsson, Master. Gosta Leonard",Male,0-10,1
+1097,3rd Class,0,"Palsson, Master. Paul Folke",Male,0-10,1
+1098,3rd Class,0,"Palsson, Miss. Stina Viola",Female,0-10,1
+1099,3rd Class,0,"Palsson, Miss. Torborg Danira",Female,0-10,1
+1100,3rd Class,0,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Female,20-30,1
+1101,3rd Class,0,"Panula, Master. Eino Viljami",Male,0-10,1
+1102,3rd Class,0,"Panula, Master. Juha Niilo",Male,0-10,1
+1103,3rd Class,0,"Panula, Master. Urho Abraham",Male,0-10,1
+1104,3rd Class,0,"Panula, Mr. Ernesti Arvid",Male,10-20,1
+1105,3rd Class,0,"Panula, Mr. Jaako Arnold",Male,10-20,1
+1106,3rd Class,0,"Panula, Mrs. Juha (Maria Emilia Ojala)",Female,40-50,1
+1107,3rd Class,0,"Pasic, Mr. Jakob",Male,20-30,1
+1108,3rd Class,0,"Patchett, Mr. George",Male,10-20,1
+1109,3rd Class,0,"Paulner, Mr. Uscher",Male,No data,1
+1110,3rd Class,0,"Pavlovic, Mr. Stefo",Male,30-40,1
+1111,3rd Class,0,"Peacock, Master. Alfred Edward",Male,0-10,1
+1112,3rd Class,0,"Peacock, Miss. Treasteall",Female,0-10,1
+1113,3rd Class,0,"Peacock, Mrs. Benjamin (Edith Nile)",Female,20-30,1
+1114,3rd Class,0,"Pearce, Mr. Ernest",Male,No data,1
+1115,3rd Class,0,"Pedersen, Mr. Olaf",Male,No data,1
+1116,3rd Class,0,"Peduzzi, Mr. Joseph",Male,No data,1
+1117,3rd Class,0,"Pekoniemi, Mr. Edvard",Male,20-30,1
+1118,3rd Class,0,"Peltomaki, Mr. Nikolai Johannes",Male,20-30,1
+1119,3rd Class,0,"Perkin, Mr. John Henry",Male,20-30,1
+1120,3rd Class,1,"Persson, Mr. Ernst Ulrik",Male,20-30,1
+1121,3rd Class,1,"Peter, Master. Michael J",Male,No data,1
+1122,3rd Class,1,"Peter, Miss. Anna",Female,No data,1
+1123,3rd Class,1,"Peter, Mrs. Catherine (Catherine Rizk)",Female,No data,1
+1124,3rd Class,0,"Peters, Miss. Katie",Female,No data,1
+1125,3rd Class,0,"Petersen, Mr. Marius",Male,20-30,1
+1126,3rd Class,0,"Petranec, Miss. Matilda",Female,20-30,1
+1127,3rd Class,0,"Petroff, Mr. Nedelio",Male,10-20,1
+1128,3rd Class,0,"Petroff, Mr. Pastcho (""Pentcho"")",Male,No data,1
+1129,3rd Class,0,"Petterson, Mr. Johan Emil",Male,20-30,1
+1130,3rd Class,0,"Pettersson, Miss. Ellen Natalia",Female,10-20,1
+1131,3rd Class,1,"Pickard, Mr. Berk (Berk Trembisky)",Male,30-40,1
+1132,3rd Class,0,"Plotcharsky, Mr. Vasil",Male,No data,1
+1133,3rd Class,0,"Pokrnic, Mr. Mate",Male,10-20,1
+1134,3rd Class,0,"Pokrnic, Mr. Tome",Male,20-30,1
+1135,3rd Class,0,"Radeff, Mr. Alexander",Male,No data,1
+1136,3rd Class,0,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",Female,No data,1
+1137,3rd Class,0,"Razi, Mr. Raihed",Male,No data,1
+1138,3rd Class,0,"Reed, Mr. James George",Male,No data,1
+1139,3rd Class,0,"Rekic, Mr. Tido",Male,30-40,1
+1140,3rd Class,0,"Reynolds, Mr. Harold J",Male,20-30,1
+1141,3rd Class,0,"Rice, Master. Albert",Male,0-10,1
+1142,3rd Class,0,"Rice, Master. Arthur",Male,0-10,1
+1143,3rd Class,0,"Rice, Master. Eric",Male,0-10,1
+1144,3rd Class,0,"Rice, Master. Eugene",Male,0-10,1
+1145,3rd Class,0,"Rice, Master. George Hugh",Male,0-10,1
+1146,3rd Class,0,"Rice, Mrs. William (Margaret Norton)",Female,30-40,1
+1147,3rd Class,0,"Riihivouri, Miss. Susanna Juhantytar ""Sanni""",Female,20-30,1
+1148,3rd Class,0,"Rintamaki, Mr. Matti",Male,30-40,1
+1149,3rd Class,1,"Riordan, Miss. Johanna ""Hannah""",Female,No data,1
+1150,3rd Class,0,"Risien, Mr. Samuel Beard",Male,No data,1
+1151,3rd Class,0,"Risien, Mrs. Samuel (Emma)",Female,No data,1
+1152,3rd Class,0,"Robins, Mr. Alexander A",Male,40-50,1
+1153,3rd Class,0,"Robins, Mrs. Alexander A (Grace Charity Laury)",Female,40-50,1
+1154,3rd Class,0,"Rogers, Mr. William John",Male,No data,1
+1155,3rd Class,0,"Rommetvedt, Mr. Knud Paust",Male,No data,1
+1156,3rd Class,0,"Rosblom, Miss. Salli Helena",Female,0-10,1
+1157,3rd Class,0,"Rosblom, Mr. Viktor Richard",Male,10-20,1
+1158,3rd Class,0,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Female,40-50,1
+1159,3rd Class,1,"Roth, Miss. Sarah A",Female,No data,1
+1160,3rd Class,0,"Rouse, Mr. Richard Henry",Male,40-50,1
+1161,3rd Class,0,"Rush, Mr. Alfred George John",Male,10-20,1
+1162,3rd Class,1,"Ryan, Mr. Edward",Male,No data,1
+1163,3rd Class,0,"Ryan, Mr. Patrick",Male,No data,1
+1164,3rd Class,0,"Saad, Mr. Amin",Male,No data,1
+1165,3rd Class,0,"Saad, Mr. Khalil",Male,20-30,1
+1166,3rd Class,0,"Saade, Mr. Jean Nassr",Male,No data,1
+1167,3rd Class,0,"Sadlier, Mr. Matthew",Male,No data,1
+1168,3rd Class,0,"Sadowitz, Mr. Harry",Male,No data,1
+1169,3rd Class,0,"Saether, Mr. Simon Sivertsen",Male,30-40,1
+1170,3rd Class,0,"Sage, Master. Thomas Henry",Male,No data,1
+1171,3rd Class,0,"Sage, Master. William Henry",Male,10-20,1
+1172,3rd Class,0,"Sage, Miss. Ada",Female,No data,1
+1173,3rd Class,0,"Sage, Miss. Constance Gladys",Female,No data,1
+1174,3rd Class,0,"Sage, Miss. Dorothy Edith ""Dolly""",Female,No data,1
+1175,3rd Class,0,"Sage, Miss. Stella Anna",Female,No data,1
+1176,3rd Class,0,"Sage, Mr. Douglas Bullen",Male,No data,1
+1177,3rd Class,0,"Sage, Mr. Frederick",Male,No data,1
+1178,3rd Class,0,"Sage, Mr. George John Jr",Male,No data,1
+1179,3rd Class,0,"Sage, Mr. John George",Male,No data,1
+1180,3rd Class,0,"Sage, Mrs. John (Annie Bullen)",Female,No data,1
+1181,3rd Class,0,"Salander, Mr. Karl Johan",Male,20-30,1
+1182,3rd Class,1,"Salkjelsvik, Miss. Anna Kristine",Female,20-30,1
+1183,3rd Class,0,"Salonen, Mr. Johan Werner",Male,30-40,1
+1184,3rd Class,0,"Samaan, Mr. Elias",Male,No data,1
+1185,3rd Class,0,"Samaan, Mr. Hanna",Male,No data,1
+1186,3rd Class,0,"Samaan, Mr. Youssef",Male,No data,1
+1187,3rd Class,1,"Sandstrom, Miss. Beatrice Irene",Female,0-10,1
+1188,3rd Class,1,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Female,20-30,1
+1189,3rd Class,1,"Sandstrom, Miss. Marguerite Rut",Female,0-10,1
+1190,3rd Class,1,"Sap, Mr. Julius",Male,20-30,1
+1191,3rd Class,0,"Saundercock, Mr. William Henry",Male,10-20,1
+1192,3rd Class,0,"Sawyer, Mr. Frederick Charles",Male,20-30,1
+1193,3rd Class,0,"Scanlan, Mr. James",Male,No data,1
+1194,3rd Class,0,"Sdycoff, Mr. Todor",Male,No data,1
+1195,3rd Class,0,"Shaughnessy, Mr. Patrick",Male,No data,1
+1196,3rd Class,1,"Sheerlinck, Mr. Jan Baptist",Male,20-30,1
+1197,3rd Class,0,"Shellard, Mr. Frederick William",Male,No data,1
+1198,3rd Class,1,"Shine, Miss. Ellen Natalia",Female,No data,1
+1199,3rd Class,0,"Shorney, Mr. Charles Joseph",Male,No data,1
+1200,3rd Class,0,"Simmons, Mr. John",Male,No data,1
+1201,3rd Class,0,"Sirayanian, Mr. Orsen",Male,20-30,1
+1202,3rd Class,0,"Sirota, Mr. Maurice",Male,No data,1
+1203,3rd Class,0,"Sivic, Mr. Husein",Male,30-40,1
+1204,3rd Class,0,"Sivola, Mr. Antti Wilhelm",Male,20-30,1
+1205,3rd Class,1,"Sjoblom, Miss. Anna Sofia",Female,10-20,1
+1206,3rd Class,0,"Skoog, Master. Harald",Male,0-10,1
+1207,3rd Class,0,"Skoog, Master. Karl Thorsten",Male,0-10,1
+1208,3rd Class,0,"Skoog, Miss. Mabel",Female,0-10,1
+1209,3rd Class,0,"Skoog, Miss. Margit Elizabeth",Female,0-10,1
+1210,3rd Class,0,"Skoog, Mr. Wilhelm",Male,30-40,1
+1211,3rd Class,0,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Female,40-50,1
+1212,3rd Class,0,"Slabenoff, Mr. Petco",Male,No data,1
+1213,3rd Class,0,"Slocovski, Mr. Selman Francis",Male,No data,1
+1214,3rd Class,0,"Smiljanic, Mr. Mile",Male,No data,1
+1215,3rd Class,0,"Smith, Mr. Thomas",Male,No data,1
+1216,3rd Class,1,"Smyth, Miss. Julia",Female,No data,1
+1217,3rd Class,0,"Soholt, Mr. Peter Andreas Lauritz Andersen",Male,10-20,1
+1218,3rd Class,0,"Somerton, Mr. Francis William",Male,20-30,1
+1219,3rd Class,0,"Spector, Mr. Woolf",Male,No data,1
+1220,3rd Class,0,"Spinner, Mr. Henry John",Male,30-40,1
+1221,3rd Class,0,"Staneff, Mr. Ivan",Male,No data,1
+1222,3rd Class,0,"Stankovic, Mr. Ivan",Male,30-40,1
+1223,3rd Class,1,"Stanley, Miss. Amy Zillah Elsie",Female,20-30,1
+1224,3rd Class,0,"Stanley, Mr. Edward Roland",Male,20-30,1
+1225,3rd Class,0,"Storey, Mr. Thomas",Male,60-70,1
+1226,3rd Class,0,"Stoytcheff, Mr. Ilia",Male,10-20,1
+1227,3rd Class,0,"Strandberg, Miss. Ida Sofia",Female,20-30,1
+1228,3rd Class,1,"Stranden, Mr. Juho",Male,30-40,1
+1229,3rd Class,0,"Strilic, Mr. Ivan",Male,20-30,1
+1230,3rd Class,0,"Strom, Miss. Telma Matilda",Female,0-10,1
+1231,3rd Class,0,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Female,20-30,1
+1232,3rd Class,1,"Sunderland, Mr. Victor Francis",Male,10-20,1
+1233,3rd Class,1,"Sundman, Mr. Johan Julian",Male,40-50,1
+1234,3rd Class,0,"Sutehall, Mr. Henry Jr",Male,20-30,1
+1235,3rd Class,0,"Svensson, Mr. Johan",Male,70-80,1
+1236,3rd Class,1,"Svensson, Mr. Johan Cervin",Male,10-20,1
+1237,3rd Class,0,"Svensson, Mr. Olof",Male,20-30,1
+1238,3rd Class,1,"Tenglin, Mr. Gunnar Isidor",Male,20-30,1
+1239,3rd Class,0,"Theobald, Mr. Thomas Leonard",Male,30-40,1
+1240,3rd Class,1,"Thomas, Master. Assad Alexander",Male,0-10,1
+1241,3rd Class,0,"Thomas, Mr. Charles P",Male,No data,1
+1242,3rd Class,0,"Thomas, Mr. John",Male,No data,1
+1243,3rd Class,0,"Thomas, Mr. Tannous",Male,No data,1
+1244,3rd Class,1,"Thomas, Mrs. Alexander (Thamine ""Thelma"")",Female,10-20,1
+1245,3rd Class,0,"Thomson, Mr. Alexander Morrison",Male,No data,1
+1246,3rd Class,0,"Thorneycroft, Mr. Percival",Male,No data,1
+1247,3rd Class,1,"Thorneycroft, Mrs. Percival (Florence Kate White)",Female,No data,1
+1248,3rd Class,0,"Tikkanen, Mr. Juho",Male,30-40,1
+1249,3rd Class,0,"Tobin, Mr. Roger",Male,No data,1
+1250,3rd Class,0,"Todoroff, Mr. Lalio",Male,No data,1
+1251,3rd Class,0,"Tomlin, Mr. Ernest Portage",Male,30-40,1
+1252,3rd Class,0,"Torber, Mr. Ernst William",Male,40-50,1
+1253,3rd Class,0,"Torfa, Mr. Assad",Male,No data,1
+1254,3rd Class,1,"Tornquist, Mr. William Henry",Male,20-30,1
+1255,3rd Class,0,"Toufik, Mr. Nakli",Male,No data,1
+1256,3rd Class,1,"Touma, Master. Georges Youssef",Male,0-10,1
+1257,3rd Class,1,"Touma, Miss. Maria Youssef",Female,0-10,1
+1258,3rd Class,1,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Female,20-30,1
+1259,3rd Class,0,"Turcin, Mr. Stjepan",Male,30-40,1
+1260,3rd Class,1,"Turja, Miss. Anna Sofia",Female,10-20,1
+1261,3rd Class,1,"Turkula, Mrs. (Hedwig)",Female,60-70,1
+1262,3rd Class,0,"van Billiard, Master. James William",Male,No data,1
+1263,3rd Class,0,"van Billiard, Master. Walter John",Male,10-20,1
+1264,3rd Class,0,"van Billiard, Mr. Austin Blyler",Male,40-50,1
+1265,3rd Class,0,"Van Impe, Miss. Catharina",Female,0-10,1
+1266,3rd Class,0,"Van Impe, Mr. Jean Baptiste",Male,30-40,1
+1267,3rd Class,0,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Female,20-30,1
+1268,3rd Class,0,"van Melkebeke, Mr. Philemon",Male,No data,1
+1269,3rd Class,0,"Vande Velde, Mr. Johannes Joseph",Male,30-40,1
+1270,3rd Class,0,"Vande Walle, Mr. Nestor Cyriel",Male,20-30,1
+1271,3rd Class,0,"Vanden Steen, Mr. Leo Peter",Male,20-30,1
+1272,3rd Class,0,"Vander Cruyssen, Mr. Victor",Male,40-50,1
+1273,3rd Class,0,"Vander Planke, Miss. Augusta Maria",Female,10-20,1
+1274,3rd Class,0,"Vander Planke, Mr. Julius",Male,30-40,1
+1275,3rd Class,0,"Vander Planke, Mr. Leo Edmondus",Male,10-20,1
+1276,3rd Class,0,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Female,30-40,1
+1277,3rd Class,1,"Vartanian, Mr. David",Male,20-30,1
+1278,3rd Class,0,"Vendel, Mr. Olof Edvin",Male,10-20,1
+1279,3rd Class,0,"Vestrom, Miss. Hulda Amanda Adolfina",Female,10-20,1
+1280,3rd Class,0,"Vovk, Mr. Janko",Male,20-30,1
+1281,3rd Class,0,"Waelens, Mr. Achille",Male,20-30,1
+1282,3rd Class,0,"Ware, Mr. Frederick",Male,No data,1
+1283,3rd Class,0,"Warren, Mr. Charles William",Male,No data,1
+1284,3rd Class,0,"Webber, Mr. James",Male,No data,1
+1285,3rd Class,0,"Wenzel, Mr. Linhart",Male,30-40,1
+1286,3rd Class,1,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",Female,30-40,1
+1287,3rd Class,0,"Widegren, Mr. Carl/Charles Peter",Male,50-60,1
+1288,3rd Class,0,"Wiklund, Mr. Jakob Alfred",Male,10-20,1
+1289,3rd Class,0,"Wiklund, Mr. Karl Johan",Male,20-30,1
+1290,3rd Class,1,"Wilkes, Mrs. James (Ellen Needs)",Female,40-50,1
+1291,3rd Class,0,"Willer, Mr. Aaron (""Abi Weller"")",Male,No data,1
+1292,3rd Class,0,"Willey, Mr. Edward",Male,No data,1
+1293,3rd Class,0,"Williams, Mr. Howard Hugh ""Harry""",Male,No data,1
+1294,3rd Class,0,"Williams, Mr. Leslie",Male,20-30,1
+1295,3rd Class,0,"Windelov, Mr. Einar",Male,20-30,1
+1296,3rd Class,0,"Wirz, Mr. Albert",Male,20-30,1
+1297,3rd Class,0,"Wiseman, Mr. Phillippe",Male,No data,1
+1298,3rd Class,0,"Wittevrongel, Mr. Camille",Male,30-40,1
+1299,3rd Class,0,"Yasbeck, Mr. Antoni",Male,20-30,1
+1300,3rd Class,1,"Yasbeck, Mrs. Antoni (Selini Alexander)",Female,10-20,1
+1301,3rd Class,0,"Youseff, Mr. Gerious",Male,40-50,1
+1302,3rd Class,0,"Yousif, Mr. Wazli",Male,No data,1
+1303,3rd Class,0,"Yousseff, Mr. Gerious",Male,No data,1
+1304,3rd Class,0,"Zabour, Miss. Hileni",Female,10-20,1
+1305,3rd Class,0,"Zabour, Miss. Thamine",Female,No data,1
+1306,3rd Class,0,"Zakarian, Mr. Mapriededer",Male,20-30,1
+1307,3rd Class,0,"Zakarian, Mr. Ortin",Male,20-30,1
+1308,3rd Class,0,"Zimmerman, Mr. Leo",Male,20-30,1
